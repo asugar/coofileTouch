@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">酷菲互动版</string>
+    <string name="testMsg">我们所提供的触摸屏，均采用行业专用面板，及国际领先的图像处理技术，为用户呈现完美画面，金属铝型材外壳，一体化的设计，外观实用简洁大方。特殊加固、防水结构设计，适应任何恶劣环境。并可根据客户需求规划，工程师依据项目进行实地考察，提供全高清分辨率，高触摸精度、高敏感触摸区域等最具符合客户的触摸产品及相应解决方案。</string>
+	<string name="error_hite">抱歉，不支持该类型播放！</string>
+</resources>

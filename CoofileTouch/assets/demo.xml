@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<twinflag id="49" looptype="2" loopdesc="Wednesday,Thursday,Friday" loopstarttime="00:00:00" loopstoptime="23:59:59" 
+      startdate="2014-12-10 00:00:00" stopdate="2014-12-10 23:59:59" updatetime="2014-12-11 10:55:09" height="1080" width="1920">
+
+    <program id="49" name="多区域">
+    
+      <!-- 场景标签 -->
+      <scene id="scene1"  backcolor="" backimg="ftpFile\processed\a506370913d1e12ba937f334653bd0f9.jpg" ismain="true">
+          
+		<!-- 区域标签 -->
+		<region id="region1" name="图片" left="0" top="0" width="540" height="960" type="3">
+	        <!--3 图片元素标签 -->
+	        <element id="1" life="10" name="2.jpg" src="ftpFile\processed\1.jpg" type="3"/>
+	        <element id="2" life="10" name="2.jpg" src="ftpFile\processed\2.jpg" type="3"/>
+		</region>
+	   </scene>
+	   
+	</program>
+	
+    <program id="49" name="多区域">
+	
+      <!-- 场景标签 -->
+      <scene id="scene1" backcolor="" backimg="ftpFile\processed\a506370913d1e12ba937f334653bd0f9.jpg" ismain="true">
+          
+		<!-- 区域标签 -->
+		<region id="region1" name="图片" left="0" top="960" width="540" height="960" type="3">
+	        <!--3 图片元素标签 -->
+	        <element id="3" life="10" name="2.jpg" src="ftpFile\processed\4.jpg" type="3"/>
+	        <element id="4" life="10" name="2.jpg" src="ftpFile\processed\3.jpg" type="3"/>
+		</region>
+		
+	</scene>
+		
+  </program>
+</twinflag>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scrollingnew id="112" >
+
+    <runmsgdata
+        id="112"
+        name="大大的"
+        bgcolor="#00ffffff"
+        content="北京双旗世纪欢迎您！"
+        direction="2"
+        fgcolor="#000000"
+        font="黑体"
+        position="2"
+        size="50"
+        speed="10"
+        startdate="2015-01-23 00:00:00"
+        state="1"
+        stopdate="2019-01-31 23:59:59"
+        updatetime="2015-01-28 16:38:17" />
+
+</scrollingnew>

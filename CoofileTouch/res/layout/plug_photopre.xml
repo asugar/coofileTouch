@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/plug_gallery_iv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <HorizontalScrollView
+        android:id="@+id/plug_gallery_hsv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/plug_gallery_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="#55000000"
+            android:orientation="horizontal" />
+    </HorizontalScrollView>
+
+    <ProgressBar
+        android:id="@+id/plug_gallery_pb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
+
+</FrameLayout>

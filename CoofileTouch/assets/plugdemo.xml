@@ -1,0 +1,4184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<twinflag>
+
+    <program
+        id="1343"
+        name="plugdemo"
+        buttonCount="13"
+        editProp="0.4922"
+        elemCount="380"
+        firstZIndex="2000"
+        height="1280"
+        lastZIndex="2034"
+        loopdesc="Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday"
+        loopstarttime="00:00:00"
+        loopstoptime="23:59:59"
+        looptype="2"
+        regionCount="6"
+        sceneNum="6"
+        startdate="2015-03-23 00:00:00"
+        stopdate="2025-03-23 23:59:59"
+        updatetime="2015-03-24 16:50:28"
+        width="720" >
+
+        <scene
+            id="scene1"
+            backcolor=""
+            backimg=""
+            ismain="true"
+            region="null"
+            sceneName="场景1" >
+
+            <plug
+                id="plug1"
+                name="互动相册"
+                elemlife=""
+                height="1280"
+                left="0"
+                top="0"
+                type="1"
+                width="720"
+                zIndex="5000" >
+
+                <album style="2" >
+
+                    <element
+                        id="2228"
+                        name="搜索框文字描述不明确.png"
+                        elemTempId="selected_elem_1"
+                        life="10"
+                        resolution="1552x700"
+                        src="ftpFile\processed\07957bd3d649fa9bfe36171b06bded60.png"
+                        thumbnailUrl="ftpFile\processed\img07957bd3d649fa9bfe36171b06bded60.png"
+                        type="3" />
+
+                    <element
+                        id="2229"
+                        name="15.jpg"
+                        elemTempId="selected_elem_2"
+                        life="10"
+                        resolution="1600x900"
+                        src="ftpFile\processed\b129b4e7d5903a171da2a82c42ff7836.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb129b4e7d5903a171da2a82c42ff7836.jpg"
+                        type="3" />
+
+                    <element
+                        id="2104"
+                        name="Desert.jpg"
+                        elemTempId="selected_elem_3"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\ba45c8f60456a672e003a875e469d0eb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgba45c8f60456a672e003a875e469d0eb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2138"
+                        name="Chrysanthemum.jpg"
+                        elemTempId="selected_elem_4"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        thumbnailUrl="ftpFile\processed\img076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        type="3" />
+
+                    <element
+                        id="1796"
+                        name="养生调理15.Png"
+                        elemTempId="selected_elem_5"
+                        life="10"
+                        resolution="2315x1323"
+                        src="ftpFile\processed\7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        thumbnailUrl="ftpFile\processed\img7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        type="3" />
+
+                    <element
+                        id="2143"
+                        name="15.jpg"
+                        elemTempId="selected_elem_6"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\022a4a9821eaa37fa6a181c038168bec.jpg"
+                        thumbnailUrl="ftpFile\processed\img022a4a9821eaa37fa6a181c038168bec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2226"
+                        name="双旗科技体验中心 1280x800.png"
+                        elemTempId="selected_elem_7"
+                        life="10"
+                        resolution=""
+                        src="ftpFile\processed\ffe15041b8c16092391d88b922ca50b4.png"
+                        thumbnailUrl="ftpFile\processed\imgffe15041b8c16092391d88b922ca50b4.png"
+                        type="3" />
+
+                    <element
+                        id="2205"
+                        name="艾非尔铁塔.JPG"
+                        elemTempId="selected_elem_8"
+                        life="10"
+                        resolution="1280x3465"
+                        src="ftpFile\processed\e8538d8069fa4cfe3a033d6f00421752.JPG"
+                        thumbnailUrl="ftpFile\processed\imge8538d8069fa4cfe3a033d6f00421752.JPG"
+                        type="3" />
+
+                    <element
+                        id="2206"
+                        name="woman.JPG"
+                        elemTempId="selected_elem_9"
+                        life="10"
+                        resolution="1465x3880"
+                        src="ftpFile\processed\8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        thumbnailUrl="ftpFile\processed\img8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        type="3" />
+
+                    <element
+                        id="2207"
+                        name="sea.JPG"
+                        elemTempId="selected_elem_10"
+                        life="10"
+                        resolution="1900x4960"
+                        src="ftpFile\processed\526fb88cac99f3f6308422975a0a6cae.JPG"
+                        thumbnailUrl="ftpFile\processed\img526fb88cac99f3f6308422975a0a6cae.JPG"
+                        type="3" />
+
+                    <element
+                        id="2208"
+                        name="6.jpg"
+                        elemTempId="selected_elem_11"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\b67342c859f8a09a9fd1414baab69d42.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb67342c859f8a09a9fd1414baab69d42.jpg"
+                        type="3" />
+
+                    <element
+                        id="494"
+                        name="5.jpg"
+                        elemTempId="selected_elem_12"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\62f781ab4225ee0571eb93f162ee68cb.jpg"
+                        thumbnailUrl="ftpFile\processed\img62f781ab4225ee0571eb93f162ee68cb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2209"
+                        name="4.jpg"
+                        elemTempId="selected_elem_13"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\63d5eead6a33913e7b4c593c874f83f5.jpg"
+                        thumbnailUrl="ftpFile\processed\img63d5eead6a33913e7b4c593c874f83f5.jpg"
+                        type="3" />
+
+                    <element
+                        id="497"
+                        name="3.jpg"
+                        elemTempId="selected_elem_14"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\69f36e7d397c8a8c3ba4d5c62074fe60.jpg"
+                        thumbnailUrl="ftpFile\processed\img69f36e7d397c8a8c3ba4d5c62074fe60.jpg"
+                        type="3" />
+
+                    <element
+                        id="495"
+                        name="1.jpg"
+                        elemTempId="selected_elem_15"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\42c299b0427853d979befc0484795766.jpg"
+                        thumbnailUrl="ftpFile\processed\img42c299b0427853d979befc0484795766.jpg"
+                        type="3" />
+
+                    <element
+                        id="2199"
+                        name="fly12.jpg"
+                        elemTempId="selected_elem_16"
+                        life="10"
+                        resolution="4080x1536"
+                        src="ftpFile\processed\d0041978aa55b44589bf24752c7b0cbb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd0041978aa55b44589bf24752c7b0cbb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2200"
+                        name="15.png"
+                        elemTempId="selected_elem_17"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\f118e29b16e4e9d7709bc889aab1fe33.png"
+                        thumbnailUrl="ftpFile\processed\imgf118e29b16e4e9d7709bc889aab1fe33.png"
+                        type="3" />
+
+                    <element
+                        id="2196"
+                        name="Y.jpg"
+                        elemTempId="selected_elem_18"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\d463fdf6607da3b13fab5612d3b50dce.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd463fdf6607da3b13fab5612d3b50dce.jpg"
+                        type="3" />
+
+                    <element
+                        id="2189"
+                        name="X.jpg"
+                        elemTempId="selected_elem_19"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                        thumbnailUrl="ftpFile\processed\img5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                        type="3" />
+
+                    <element
+                        id="2194"
+                        name="W.jpg"
+                        elemTempId="selected_elem_20"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\93909019e1309425056d0888cb65b443.jpg"
+                        thumbnailUrl="ftpFile\processed\img93909019e1309425056d0888cb65b443.jpg"
+                        type="3" />
+
+                    <element
+                        id="2187"
+                        name="u=3551317513,3799452752&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_21"
+                        life="10"
+                        resolution="222x220"
+                        src="ftpFile\processed\42b37283f95cb401128fdf91fa55d635.jpg"
+                        thumbnailUrl="ftpFile\processed\img42b37283f95cb401128fdf91fa55d635.jpg"
+                        type="3" />
+
+                    <element
+                        id="2197"
+                        name="U.jpg"
+                        elemTempId="selected_elem_22"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\e0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        thumbnailUrl="ftpFile\processed\imge0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2193"
+                        name="77dab59eef69d1120f437541e8_560.jpg"
+                        elemTempId="selected_elem_23"
+                        life="10"
+                        resolution="560x560"
+                        src="ftpFile\processed\910eebc4ff1db1c786fef21359a601a6.jpg"
+                        thumbnailUrl="ftpFile\processed\img910eebc4ff1db1c786fef21359a601a6.jpg"
+                        type="3" />
+
+                    <element
+                        id="2192"
+                        name="19.gif"
+                        elemTempId="selected_elem_24"
+                        life="10"
+                        resolution="800x644"
+                        src="ftpFile\processed\659323f99bf2e56d8a37b54be16cc028.gif"
+                        thumbnailUrl="ftpFile\processed\img659323f99bf2e56d8a37b54be16cc028.gif"
+                        type="3" />
+
+                    <element
+                        id="2188"
+                        name="18.png"
+                        elemTempId="selected_elem_25"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\47f3fec60db56e7d5323d21d609c3b25.png"
+                        thumbnailUrl="ftpFile\processed\img47f3fec60db56e7d5323d21d609c3b25.png"
+                        type="3" />
+
+                    <element
+                        id="2191"
+                        name="17.png"
+                        elemTempId="selected_elem_26"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\8b84ea20ad7f01bd875e6472b12aee18.png"
+                        thumbnailUrl="ftpFile\processed\img8b84ea20ad7f01bd875e6472b12aee18.png"
+                        type="3" />
+
+                    <element
+                        id="2195"
+                        name="16.png"
+                        elemTempId="selected_elem_27"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\a7fced47cbbe46b3950a804698f048f5.png"
+                        thumbnailUrl="ftpFile\processed\imga7fced47cbbe46b3950a804698f048f5.png"
+                        type="3" />
+
+                    <element
+                        id="2190"
+                        name="14.png"
+                        elemTempId="selected_elem_28"
+                        life="10"
+                        resolution="1288x559"
+                        src="ftpFile\processed\7dc61228f68ab2fa986b9f2facf8477c.png"
+                        thumbnailUrl="ftpFile\processed\img7dc61228f68ab2fa986b9f2facf8477c.png"
+                        type="3" />
+
+                    <element
+                        id="2184"
+                        name="V.jpg"
+                        elemTempId="selected_elem_29"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2182"
+                        name="u=2970845689,4239443281&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_30"
+                        life="10"
+                        resolution="176x220"
+                        src="ftpFile\processed\08e0716377744d7150427e9f1ae2de1c.jpg"
+                        thumbnailUrl="ftpFile\processed\img08e0716377744d7150427e9f1ae2de1c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2186"
+                        name="u=2785000230,360309763&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_31"
+                        life="10"
+                        resolution="156x220"
+                        src="ftpFile\processed\3abf6c38eec4ecfb340b85ceb320b819.jpg"
+                        thumbnailUrl="ftpFile\processed\img3abf6c38eec4ecfb340b85ceb320b819.jpg"
+                        type="3" />
+
+                    <element
+                        id="2183"
+                        name="u=2088812865,1218106297&amp;fm=23&amp;gp=0.jpg"
+                        elemTempId="selected_elem_32"
+                        life="10"
+                        resolution="338x300"
+                        src="ftpFile\processed\08d5c6f950479946ad3c33c2923ea2d8.jpg"
+                        thumbnailUrl="ftpFile\processed\img08d5c6f950479946ad3c33c2923ea2d8.jpg"
+                        type="3" />
+
+                    <element
+                        id="2185"
+                        name="00634daeda55407491101ee42d7a708b.jpg"
+                        elemTempId="selected_elem_33"
+                        life="10"
+                        resolution="9462x4734"
+                        src="ftpFile\processed\0f0b14d3ad4d712e88c80b095be900d2.jpg"
+                        thumbnailUrl="ftpFile\processed\img0f0b14d3ad4d712e88c80b095be900d2.jpg"
+                        type="3" />
+
+                    <element
+                        id="1156"
+                        name="fly11.jpg"
+                        elemTempId="selected_elem_34"
+                        life="10"
+                        resolution="9071x3402"
+                        src="ftpFile\processed\d2a6468ffa1745ef2145fbc54ebb9124.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd2a6468ffa1745ef2145fbc54ebb9124.jpg"
+                        type="3" />
+
+                    <element
+                        id="2177"
+                        name="T.jpg"
+                        elemTempId="selected_elem_35"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\927a960e31ccb8739fb601b19a316ea9.jpg"
+                        thumbnailUrl="ftpFile\processed\img927a960e31ccb8739fb601b19a316ea9.jpg"
+                        type="3" />
+
+                    <element
+                        id="2168"
+                        name="S.jpg"
+                        elemTempId="selected_elem_36"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\12eab1f7a8ed8eb41bef4c79f8825f8c.jpg"
+                        thumbnailUrl="ftpFile\processed\img12eab1f7a8ed8eb41bef4c79f8825f8c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2175"
+                        name="R.jpg"
+                        elemTempId="selected_elem_37"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\d7d6128f4817e6dc52dde2f213dc7928.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd7d6128f4817e6dc52dde2f213dc7928.jpg"
+                        type="3" />
+
+                    <element
+                        id="2176"
+                        name="Q.jpg"
+                        elemTempId="selected_elem_38"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\fc69a8dc881ffac68d52a3f959586629.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfc69a8dc881ffac68d52a3f959586629.jpg"
+                        type="3" />
+
+                    <element
+                        id="2174"
+                        name="P.jpg"
+                        elemTempId="selected_elem_39"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\c682780074210f3868cc7bcc2601d6ef.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc682780074210f3868cc7bcc2601d6ef.jpg"
+                        type="3" />
+
+                    <element
+                        id="2170"
+                        name="O.jpg"
+                        elemTempId="selected_elem_40"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\2729028abdc0c1a7573781526084caf0.jpg"
+                        thumbnailUrl="ftpFile\processed\img2729028abdc0c1a7573781526084caf0.jpg"
+                        type="3" />
+
+                    <element
+                        id="2180"
+                        name="D.jpg"
+                        elemTempId="selected_elem_41"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\36da23c4a5810f9a4d9546e53817b16d.jpg"
+                        thumbnailUrl="ftpFile\processed\img36da23c4a5810f9a4d9546e53817b16d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2162"
+                        name="C.jpg"
+                        elemTempId="selected_elem_42"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\24a01bb0e096d5495e3529313fc99e6b.jpg"
+                        thumbnailUrl="ftpFile\processed\img24a01bb0e096d5495e3529313fc99e6b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2179"
+                        name="B.jpg"
+                        elemTempId="selected_elem_43"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\5a24cf7759a16a2c5719bb71b36c1212.jpg"
+                        thumbnailUrl="ftpFile\processed\img5a24cf7759a16a2c5719bb71b36c1212.jpg"
+                        type="3" />
+
+                    <element
+                        id="2178"
+                        name="A.jpg"
+                        elemTempId="selected_elem_44"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\fad951f11f615fb9abb3e1d9d80a3bd2.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfad951f11f615fb9abb3e1d9d80a3bd2.jpg"
+                        type="3" />
+
+                    <element
+                        id="2156"
+                        name="565a7a4acabb8215d2065a77dbd26444.jpg"
+                        elemTempId="selected_elem_45"
+                        life="10"
+                        resolution="4096x2160"
+                        src="ftpFile\processed\565a7a4acabb8215d2065a77dbd26444.jpg"
+                        thumbnailUrl="ftpFile\processed\img565a7a4acabb8215d2065a77dbd26444.jpg"
+                        type="3" />
+
+                    <element
+                        id="2158"
+                        name="c8b743abbf4aa4e9580030aefdf43719.jpg"
+                        elemTempId="selected_elem_46"
+                        life="10"
+                        resolution="4096x2160"
+                        src="ftpFile\processed\c8b743abbf4aa4e9580030aefdf43719.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc8b743abbf4aa4e9580030aefdf43719.jpg"
+                        type="3" />
+
+                    <element
+                        id="658"
+                        name="6430e7695949e4ed60e3b2dfdf1207ae - 副本.jpg"
+                        elemTempId="selected_elem_47"
+                        life="10"
+                        resolution="3840x1080"
+                        src="ftpFile\processed\dc6e5b314588d0727beb7c33d01a3a5b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdc6e5b314588d0727beb7c33d01a3a5b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2154"
+                        name="酒店7.jpg"
+                        elemTempId="selected_elem_48"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\57a1f24c1d1d8c9d2ef714f5e9416c17.jpg"
+                        thumbnailUrl="ftpFile\processed\img57a1f24c1d1d8c9d2ef714f5e9416c17.jpg"
+                        type="3" />
+
+                    <element
+                        id="2153"
+                        name="0014.jpg"
+                        elemTempId="selected_elem_49"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\c7d4f6e860ba459806b6f705379666f9.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc7d4f6e860ba459806b6f705379666f9.jpg"
+                        type="3" />
+
+                    <element
+                        id="2148"
+                        name="6.jpg"
+                        elemTempId="selected_elem_50"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\841806c9b6d64bdf6213f8ee891baecb.jpg"
+                        thumbnailUrl="ftpFile\processed\img841806c9b6d64bdf6213f8ee891baecb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2149"
+                        name="5.jpg"
+                        elemTempId="selected_elem_51"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\a5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        thumbnailUrl="ftpFile\processed\imga5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2145"
+                        name="4.jpg"
+                        elemTempId="selected_elem_52"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        thumbnailUrl="ftpFile\processed\img2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2150"
+                        name="3.jpg"
+                        elemTempId="selected_elem_53"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\b4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        type="3" />
+
+                    <element
+                        id="2152"
+                        name="2.jpg"
+                        elemTempId="selected_elem_54"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\f67b793c4ef1e2a71300265fda023841.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf67b793c4ef1e2a71300265fda023841.jpg"
+                        type="3" />
+
+                    <element
+                        id="2146"
+                        name="1.jpg"
+                        elemTempId="selected_elem_55"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\463dfde36781894f33f863596685bc70.jpg"
+                        thumbnailUrl="ftpFile\processed\img463dfde36781894f33f863596685bc70.jpg"
+                        type="3" />
+
+                    <element
+                        id="975"
+                        name="9.jpg"
+                        elemTempId="selected_elem_56"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\32a892042674dd9b50b879b62c354da1.jpg"
+                        thumbnailUrl="ftpFile\processed\img32a892042674dd9b50b879b62c354da1.jpg"
+                        type="3" />
+
+                    <element
+                        id="973"
+                        name="8.jpg"
+                        elemTempId="selected_elem_57"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\390d094a051ade86883d2c62cd095d90.jpg"
+                        thumbnailUrl="ftpFile\processed\img390d094a051ade86883d2c62cd095d90.jpg"
+                        type="3" />
+
+                    <element
+                        id="977"
+                        name="7.jpg"
+                        elemTempId="selected_elem_58"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\6081f50d36e6e5b85a302d50d7246659.jpg"
+                        thumbnailUrl="ftpFile\processed\img6081f50d36e6e5b85a302d50d7246659.jpg"
+                        type="3" />
+
+                    <element
+                        id="974"
+                        name="6.jpg"
+                        elemTempId="selected_elem_59"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\142c2cad8117b18f25ca76664881b5de.jpg"
+                        thumbnailUrl="ftpFile\processed\img142c2cad8117b18f25ca76664881b5de.jpg"
+                        type="3" />
+
+                    <element
+                        id="972"
+                        name="5.jpg"
+                        elemTempId="selected_elem_60"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\141dbab2e13fee35831cc6627518bfd4.jpg"
+                        thumbnailUrl="ftpFile\processed\img141dbab2e13fee35831cc6627518bfd4.jpg"
+                        type="3" />
+
+                    <element
+                        id="986"
+                        name="4.jpg"
+                        elemTempId="selected_elem_61"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="985"
+                        name="4 - 副本.jpg"
+                        elemTempId="selected_elem_62"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="983"
+                        name="3.jpg"
+                        elemTempId="selected_elem_63"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="984"
+                        name="3 - 副本.jpg"
+                        elemTempId="selected_elem_64"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\fb7a7e4ea72a402b5153d882fe7fc985.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfb7a7e4ea72a402b5153d882fe7fc985.jpg"
+                        type="3" />
+
+                    <element
+                        id="993"
+                        name="2.jpg"
+                        elemTempId="selected_elem_65"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\cc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        type="3" />
+
+                    <element
+                        id="994"
+                        name="2 - 副本.jpg"
+                        elemTempId="selected_elem_66"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\cc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        type="3" />
+
+                    <element
+                        id="978"
+                        name="14.jpg"
+                        elemTempId="selected_elem_67"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\9e2e1b8ac2ca2088b9894ef8864c19ab.jpg"
+                        thumbnailUrl="ftpFile\processed\img9e2e1b8ac2ca2088b9894ef8864c19ab.jpg"
+                        type="3" />
+
+                    <element
+                        id="976"
+                        name="13.jpg"
+                        elemTempId="selected_elem_68"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\5802a17525852a197ce0610bf4162d79.jpg"
+                        thumbnailUrl="ftpFile\processed\img5802a17525852a197ce0610bf4162d79.jpg"
+                        type="3" />
+
+                    <element
+                        id="979"
+                        name="12.jpg"
+                        elemTempId="selected_elem_69"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\b8b1914972a5815f17a2c2d87ec1425f.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb8b1914972a5815f17a2c2d87ec1425f.jpg"
+                        type="3" />
+
+                    <element
+                        id="982"
+                        name="11.jpg"
+                        elemTempId="selected_elem_70"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ee977cb3109fdbe89c0fdd2972b86292.jpg"
+                        thumbnailUrl="ftpFile\processed\imgee977cb3109fdbe89c0fdd2972b86292.jpg"
+                        type="3" />
+
+                    <element
+                        id="981"
+                        name="10.jpg"
+                        elemTempId="selected_elem_71"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\962b632ecf4c79123f5c2a5fe65bcc0f.jpg"
+                        thumbnailUrl="ftpFile\processed\img962b632ecf4c79123f5c2a5fe65bcc0f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2142"
+                        name="1.jpg"
+                        elemTempId="selected_elem_72"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\e9200adc12403ee9dd8fb08801c59866.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9200adc12403ee9dd8fb08801c59866.jpg"
+                        type="3" />
+
+                    <element
+                        id="980"
+                        name="1 - 副本.jpg"
+                        elemTempId="selected_elem_73"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\e9200adc12403ee9dd8fb08801c59866.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9200adc12403ee9dd8fb08801c59866.jpg"
+                        type="3" />
+
+                    <element
+                        id="2140"
+                        name="Tulips.jpg"
+                        elemTempId="selected_elem_74"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\fafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        type="3" />
+
+                    <element
+                        id="2141"
+                        name="Penguins.jpg"
+                        elemTempId="selected_elem_75"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        thumbnailUrl="ftpFile\processed\img9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2139"
+                        name="Lighthouse.jpg"
+                        elemTempId="selected_elem_76"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\8969288f4245120e7c3870287cce0ff3.jpg"
+                        thumbnailUrl="ftpFile\processed\img8969288f4245120e7c3870287cce0ff3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2099"
+                        name="Koala.jpg"
+                        elemTempId="selected_elem_77"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\2b04df3ecc1d94afddff082d139c6f15.jpg"
+                        thumbnailUrl="ftpFile\processed\img2b04df3ecc1d94afddff082d139c6f15.jpg"
+                        type="3" />
+
+                    <element
+                        id="2100"
+                        name="Jellyfish.jpg"
+                        elemTempId="selected_elem_78"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\5a44c7ba5bbe4ec867233d67e4806848.jpg"
+                        thumbnailUrl="ftpFile\processed\img5a44c7ba5bbe4ec867233d67e4806848.jpg"
+                        type="3" />
+
+                    <element
+                        id="492"
+                        name="Hydrangeas.jpg"
+                        elemTempId="selected_elem_79"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\bdf3bf1da3405725be763540d6601144.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbdf3bf1da3405725be763540d6601144.jpg"
+                        type="3" />
+
+                    <element
+                        id="2135"
+                        name="F045069.jpg"
+                        elemTempId="selected_elem_80"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\f46c82ea791402fcbb6cd684b22d940f.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf46c82ea791402fcbb6cd684b22d940f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2136"
+                        name="F045046.jpg"
+                        elemTempId="selected_elem_81"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\fcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2137"
+                        name="F045007.jpg"
+                        elemTempId="selected_elem_82"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\d5fdf951d05487c94c5cca022724b563.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd5fdf951d05487c94c5cca022724b563.jpg"
+                        type="3" />
+
+                    <element
+                        id="2133"
+                        name="F045028.jpg"
+                        elemTempId="selected_elem_83"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7624a792f8227c2006ed490eda4fe81f.jpg"
+                        thumbnailUrl="ftpFile\processed\img7624a792f8227c2006ed490eda4fe81f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2134"
+                        name="F045021.jpg"
+                        elemTempId="selected_elem_84"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\a28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        thumbnailUrl="ftpFile\processed\imga28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        type="3" />
+
+                    <element
+                        id="2132"
+                        name="F045008.jpg"
+                        elemTempId="selected_elem_85"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        thumbnailUrl="ftpFile\processed\img0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        type="3" />
+
+                    <element
+                        id="2130"
+                        name="F045098.jpg"
+                        elemTempId="selected_elem_86"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7858341cbf9e7863890673074128e8d3.jpg"
+                        thumbnailUrl="ftpFile\processed\img7858341cbf9e7863890673074128e8d3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2131"
+                        name="F045056.jpg"
+                        elemTempId="selected_elem_87"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\94b080aeb7042079f39bb2efa98d8289.jpg"
+                        thumbnailUrl="ftpFile\processed\img94b080aeb7042079f39bb2efa98d8289.jpg"
+                        type="3" />
+
+                    <element
+                        id="2127"
+                        name="F045074.jpg"
+                        elemTempId="selected_elem_88"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        thumbnailUrl="ftpFile\processed\img34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        type="3" />
+
+                    <element
+                        id="2128"
+                        name="F045061.jpg"
+                        elemTempId="selected_elem_89"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\37badd929413aa3c126f86b0a84af0ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img37badd929413aa3c126f86b0a84af0ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2129"
+                        name="F045057.jpg"
+                        elemTempId="selected_elem_90"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        thumbnailUrl="ftpFile\processed\img35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        type="3" />
+
+                    <element
+                        id="2126"
+                        name="05.jpg"
+                        elemTempId="selected_elem_91"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\f49fdd91a6296e1e226944a9a9b67c75.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf49fdd91a6296e1e226944a9a9b67c75.jpg"
+                        type="3" />
+
+                    <element
+                        id="2125"
+                        name="03.jpg"
+                        elemTempId="selected_elem_92"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\ee78445c302d81e9aa97c6b46f0d7122.jpg"
+                        thumbnailUrl="ftpFile\processed\imgee78445c302d81e9aa97c6b46f0d7122.jpg"
+                        type="3" />
+
+                    <element
+                        id="2124"
+                        name="04.jpg"
+                        elemTempId="selected_elem_93"
+                        life="10"
+                        resolution="2271x1252"
+                        src="ftpFile\processed\e9c5fabf2197d992691d33917e65f438.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9c5fabf2197d992691d33917e65f438.jpg"
+                        type="3" />
+
+                    <element
+                        id="2122"
+                        name="02.jpg"
+                        elemTempId="selected_elem_94"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\df6d4919eb94efeef1d2e592f72ea3cd.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdf6d4919eb94efeef1d2e592f72ea3cd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2123"
+                        name="01.jpg"
+                        elemTempId="selected_elem_95"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\25ec0066e538dc12dd545775784059aa.jpg"
+                        thumbnailUrl="ftpFile\processed\img25ec0066e538dc12dd545775784059aa.jpg"
+                        type="3" />
+
+                    <element
+                        id="2121"
+                        name="飞机场广告1.jpg"
+                        elemTempId="selected_elem_96"
+                        life="10"
+                        resolution="16717x9427"
+                        src="ftpFile\processed\5ac836f29696c1a450f2f6938a1c140f.jpg"
+                        thumbnailUrl="ftpFile\processed\img5ac836f29696c1a450f2f6938a1c140f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2117"
+                        name="5娱乐篇.jpg"
+                        elemTempId="selected_elem_97"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\08aa737f440b83022152ec87554bee8c.jpg"
+                        thumbnailUrl="ftpFile\processed\img08aa737f440b83022152ec87554bee8c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2118"
+                        name="4社交篇.jpg"
+                        elemTempId="selected_elem_98"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\259115dd71da8bc7ac7e49cdd911119d.jpg"
+                        thumbnailUrl="ftpFile\processed\img259115dd71da8bc7ac7e49cdd911119d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2119"
+                        name="3商务篇.jpg"
+                        elemTempId="selected_elem_99"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\89d840667feaebabec001d3543568d9a.jpg"
+                        thumbnailUrl="ftpFile\processed\img89d840667feaebabec001d3543568d9a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2120"
+                        name="2购物篇.jpg"
+                        elemTempId="selected_elem_100"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\b6e00a65bbcfd24eb34b4dc1af3721b5.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb6e00a65bbcfd24eb34b4dc1af3721b5.jpg"
+                        type="3" />
+
+                    <element
+                        id="2106"
+                        name="Hydrangeas~.jpg"
+                        elemTempId="selected_elem_101"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\bdf3bf1da3405725be763540d6601144.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbdf3bf1da3405725be763540d6601144.jpg"
+                        type="3" />
+
+                    <element
+                        id="2105"
+                        name="ccccc.jpg"
+                        elemTempId="selected_elem_102"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\fafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        type="3" />
+
+                    <element
+                        id="2103"
+                        name="bvbbbb.jpg"
+                        elemTempId="selected_elem_103"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        thumbnailUrl="ftpFile\processed\img9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2102"
+                        name="aaaaa.jpg"
+                        elemTempId="selected_elem_104"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\8969288f4245120e7c3870287cce0ff3.jpg"
+                        thumbnailUrl="ftpFile\processed\img8969288f4245120e7c3870287cce0ff3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2101"
+                        name="1111.jpg"
+                        elemTempId="selected_elem_105"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        thumbnailUrl="ftpFile\processed\img076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2097"
+                        name="点击进入.png"
+                        elemTempId="selected_elem_106"
+                        life="10"
+                        resolution="193x193"
+                        src="ftpFile\processed\8fce14129f10cc540083b6319197d7ab.png"
+                        thumbnailUrl="ftpFile\processed\img8fce14129f10cc540083b6319197d7ab.png"
+                        type="3" />
+
+                    <element
+                        id="2093"
+                        name="ZL130207_R.jpg"
+                        elemTempId="selected_elem_107"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\f1e7e10cada1852393fc2e10e174633b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf1e7e10cada1852393fc2e10e174633b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2090"
+                        name="ZL130207_L.jpg"
+                        elemTempId="selected_elem_108"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\8f60d7568ede5f81c986e908ec0a08cd.jpg"
+                        thumbnailUrl="ftpFile\processed\img8f60d7568ede5f81c986e908ec0a08cd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2089"
+                        name="LBG20130106_R.jpg"
+                        elemTempId="selected_elem_109"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\fcba6d899c09ab8cbc1b14ddcafc346d.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfcba6d899c09ab8cbc1b14ddcafc346d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2085"
+                        name="LBG20130106_L.jpg"
+                        elemTempId="selected_elem_110"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\29ef151b9c5e2ee0d216f3de84af886e.jpg"
+                        thumbnailUrl="ftpFile\processed\img29ef151b9c5e2ee0d216f3de84af886e.jpg"
+                        type="3" />
+
+                    <element
+                        id="2083"
+                        name="郑广法.JPG"
+                        elemTempId="selected_elem_111"
+                        life="10"
+                        resolution="990x2460"
+                        src="ftpFile\processed\d102adc2384e6ac38b3facd74b41c4bd.JPG"
+                        thumbnailUrl="ftpFile\processed\imgd102adc2384e6ac38b3facd74b41c4bd.JPG"
+                        type="3" />
+
+                    <element
+                        id="2082"
+                        name="赵继昌.JPG"
+                        elemTempId="selected_elem_112"
+                        life="10"
+                        resolution="918x2580"
+                        src="ftpFile\processed\9e4f4871ad26442ad72a756a88e8d962.JPG"
+                        thumbnailUrl="ftpFile\processed\img9e4f4871ad26442ad72a756a88e8d962.JPG"
+                        type="3" />
+
+                    <element
+                        id="2080"
+                        name="赵石柱.JPG"
+                        elemTempId="selected_elem_113"
+                        life="10"
+                        resolution="864x2424"
+                        src="ftpFile\processed\addf83ccfa22004ed9d462f3381c0c18.JPG"
+                        thumbnailUrl="ftpFile\processed\imgaddf83ccfa22004ed9d462f3381c0c18.JPG"
+                        type="3" />
+
+                    <element
+                        id="2079"
+                        name="赵宗岩.JPG"
+                        elemTempId="selected_elem_114"
+                        life="10"
+                        resolution="918x2586"
+                        src="ftpFile\processed\8283bb162abc451c313bf79f041cb2b4.JPG"
+                        thumbnailUrl="ftpFile\processed\img8283bb162abc451c313bf79f041cb2b4.JPG"
+                        type="3" />
+
+                    <element
+                        id="2078"
+                        name="赵士毅.JPG"
+                        elemTempId="selected_elem_115"
+                        life="10"
+                        resolution="978x2568"
+                        src="ftpFile\processed\136a0bb47491a412fdb95aeca2f7aeb1.JPG"
+                        thumbnailUrl="ftpFile\processed\img136a0bb47491a412fdb95aeca2f7aeb1.JPG"
+                        type="3" />
+
+                    <element
+                        id="2081"
+                        name="朱生泉.JPG"
+                        elemTempId="selected_elem_116"
+                        life="10"
+                        resolution="924x2550"
+                        src="ftpFile\processed\b3ac1d8c465154bf62e1702d2c5106f3.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb3ac1d8c465154bf62e1702d2c5106f3.JPG"
+                        type="3" />
+
+                    <element
+                        id="2077"
+                        name="张金生.JPG"
+                        elemTempId="selected_elem_117"
+                        life="10"
+                        resolution="948x2574"
+                        src="ftpFile\processed\10a57368e8045644b217104eb85ebae1.JPG"
+                        thumbnailUrl="ftpFile\processed\img10a57368e8045644b217104eb85ebae1.JPG"
+                        type="3" />
+
+                    <element
+                        id="2084"
+                        name="张民.JPG"
+                        elemTempId="selected_elem_118"
+                        life="10"
+                        resolution="996x2562"
+                        src="ftpFile\processed\c3136ae09d15f9f9c62a34285083c278.JPG"
+                        thumbnailUrl="ftpFile\processed\imgc3136ae09d15f9f9c62a34285083c278.JPG"
+                        type="3" />
+
+                    <element
+                        id="2072"
+                        name="杨茜麟.JPG"
+                        elemTempId="selected_elem_119"
+                        life="10"
+                        resolution="888x2472"
+                        src="ftpFile\processed\04878d9eef44d8c7d04b23c4ac3c5554.JPG"
+                        thumbnailUrl="ftpFile\processed\img04878d9eef44d8c7d04b23c4ac3c5554.JPG"
+                        type="3" />
+
+                    <element
+                        id="2075"
+                        name="杨开金.JPG"
+                        elemTempId="selected_elem_120"
+                        life="10"
+                        resolution="954x2508"
+                        src="ftpFile\processed\b7fc981632a89bdc726e6bf485dab0ec.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb7fc981632a89bdc726e6bf485dab0ec.JPG"
+                        type="3" />
+
+                    <element
+                        id="2073"
+                        name="张继义1.JPG"
+                        elemTempId="selected_elem_121"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\23bd873a79f6a3442b76ec0a2ccb6893.JPG"
+                        thumbnailUrl="ftpFile\processed\img23bd873a79f6a3442b76ec0a2ccb6893.JPG"
+                        type="3" />
+
+                    <element
+                        id="2074"
+                        name="张继义.JPG"
+                        elemTempId="selected_elem_122"
+                        life="10"
+                        resolution="930x2544"
+                        src="ftpFile\processed\85467dc4a24271a7b0c6cc7170295eeb.JPG"
+                        thumbnailUrl="ftpFile\processed\img85467dc4a24271a7b0c6cc7170295eeb.JPG"
+                        type="3" />
+
+                    <element
+                        id="2076"
+                        name="张崇福.JPG"
+                        elemTempId="selected_elem_123"
+                        life="10"
+                        resolution="924x2520"
+                        src="ftpFile\processed\e13beab6c3374d1c7a02baadbe760814.JPG"
+                        thumbnailUrl="ftpFile\processed\imge13beab6c3374d1c7a02baadbe760814.JPG"
+                        type="3" />
+
+                    <element
+                        id="2068"
+                        name="许淑香.JPG"
+                        elemTempId="selected_elem_124"
+                        life="10"
+                        resolution="924x2538"
+                        src="ftpFile\processed\faff18d025edbae92ded77ba23074960.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfaff18d025edbae92ded77ba23074960.JPG"
+                        type="3" />
+
+                    <element
+                        id="2069"
+                        name="田国良.JPG"
+                        elemTempId="selected_elem_125"
+                        life="10"
+                        resolution="936x2538"
+                        src="ftpFile\processed\fceccb5d3e30c554220b5f0b9f4dc1d4.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfceccb5d3e30c554220b5f0b9f4dc1d4.JPG"
+                        type="3" />
+
+                    <element
+                        id="2070"
+                        name="王金香.JPG"
+                        elemTempId="selected_elem_126"
+                        life="10"
+                        resolution="942x2526"
+                        src="ftpFile\processed\df734b9869fdc5ca72a2b0c14ee27016.JPG"
+                        thumbnailUrl="ftpFile\processed\imgdf734b9869fdc5ca72a2b0c14ee27016.JPG"
+                        type="3" />
+
+                    <element
+                        id="2071"
+                        name="王松美.JPG"
+                        elemTempId="selected_elem_127"
+                        life="10"
+                        resolution="942x2502"
+                        src="ftpFile\processed\fe20a22c24e361656341c29b11b56746.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfe20a22c24e361656341c29b11b56746.JPG"
+                        type="3" />
+
+                    <element
+                        id="2067"
+                        name="谢祖蕴.JPG"
+                        elemTempId="selected_elem_128"
+                        life="10"
+                        resolution="960x2544"
+                        src="ftpFile\processed\a05587bcfda580ec9a55fec2a30e0658.JPG"
+                        thumbnailUrl="ftpFile\processed\imga05587bcfda580ec9a55fec2a30e0658.JPG"
+                        type="3" />
+
+                    <element
+                        id="2060"
+                        name="苏笑春.JPG"
+                        elemTempId="selected_elem_129"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\3f3f2a29a12a98b91f11fef662085c74.JPG"
+                        thumbnailUrl="ftpFile\processed\img3f3f2a29a12a98b91f11fef662085c74.JPG"
+                        type="3" />
+
+                    <element
+                        id="2062"
+                        name="田锋.JPG"
+                        elemTempId="selected_elem_130"
+                        life="10"
+                        resolution="966x2568"
+                        src="ftpFile\processed\8f68dff95aa636742fda3ae4984a9ff0.JPG"
+                        thumbnailUrl="ftpFile\processed\img8f68dff95aa636742fda3ae4984a9ff0.JPG"
+                        type="3" />
+
+                    <element
+                        id="2054"
+                        name="李凤霞.JPG"
+                        elemTempId="selected_elem_131"
+                        life="10"
+                        resolution="972x2442"
+                        src="ftpFile\processed\e429b1ce376f779d16f22f12780082b5.JPG"
+                        thumbnailUrl="ftpFile\processed\imge429b1ce376f779d16f22f12780082b5.JPG"
+                        type="3" />
+
+                    <element
+                        id="2053"
+                        name="刘志杰.JPG"
+                        elemTempId="selected_elem_132"
+                        life="10"
+                        resolution="918x2502"
+                        src="ftpFile\processed\f01454daade1d8e5e736eea74c9f8d0f.JPG"
+                        thumbnailUrl="ftpFile\processed\imgf01454daade1d8e5e736eea74c9f8d0f.JPG"
+                        type="3" />
+
+                    <element
+                        id="2052"
+                        name="刘宝霖.JPG"
+                        elemTempId="selected_elem_133"
+                        life="10"
+                        resolution="942x2550"
+                        src="ftpFile\processed\a9ee0ce9e2bca43992545d1fbc4c092a.JPG"
+                        thumbnailUrl="ftpFile\processed\imga9ee0ce9e2bca43992545d1fbc4c092a.JPG"
+                        type="3" />
+
+                    <element
+                        id="2049"
+                        name="马宏猷.JPG"
+                        elemTempId="selected_elem_134"
+                        life="10"
+                        resolution="966x2562"
+                        src="ftpFile\processed\1c212ca81777a422878443417d4380f2.JPG"
+                        thumbnailUrl="ftpFile\processed\img1c212ca81777a422878443417d4380f2.JPG"
+                        type="3" />
+
+                    <element
+                        id="2050"
+                        name="康殿桐.JPG"
+                        elemTempId="selected_elem_135"
+                        life="10"
+                        resolution="972x2586"
+                        src="ftpFile\processed\3723350cf148d26f9e96f8f2c932e32e.JPG"
+                        thumbnailUrl="ftpFile\processed\img3723350cf148d26f9e96f8f2c932e32e.JPG"
+                        type="3" />
+
+                    <element
+                        id="2051"
+                        name="刘兆云.JPG"
+                        elemTempId="selected_elem_136"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\91a6115800301c2d641754c4d990b358.JPG"
+                        thumbnailUrl="ftpFile\processed\img91a6115800301c2d641754c4d990b358.JPG"
+                        type="3" />
+
+                    <element
+                        id="2046"
+                        name="陈淑英.JPG"
+                        elemTempId="selected_elem_137"
+                        life="10"
+                        resolution="954x2514"
+                        src="ftpFile\processed\cf6004843c45f01fbdc769e59fdc1127.JPG"
+                        thumbnailUrl="ftpFile\processed\imgcf6004843c45f01fbdc769e59fdc1127.JPG"
+                        type="3" />
+
+                    <element
+                        id="2045"
+                        name="邓青.JPG"
+                        elemTempId="selected_elem_138"
+                        life="10"
+                        resolution="990x2580"
+                        src="ftpFile\processed\af325a2b01febd2c191869c0c865bac7.JPG"
+                        thumbnailUrl="ftpFile\processed\imgaf325a2b01febd2c191869c0c865bac7.JPG"
+                        type="3" />
+
+                    <element
+                        id="2047"
+                        name="耿墨学.JPG"
+                        elemTempId="selected_elem_139"
+                        life="10"
+                        resolution="906x2460"
+                        src="ftpFile\processed\da40f48277503917e4055e34f95d4b43.JPG"
+                        thumbnailUrl="ftpFile\processed\imgda40f48277503917e4055e34f95d4b43.JPG"
+                        type="3" />
+
+                    <element
+                        id="2048"
+                        name="冯经湖.JPG"
+                        elemTempId="selected_elem_140"
+                        life="10"
+                        resolution="870x2412"
+                        src="ftpFile\processed\de20ed2c257a83bc69bd8ccd9fc4bbb5.JPG"
+                        thumbnailUrl="ftpFile\processed\imgde20ed2c257a83bc69bd8ccd9fc4bbb5.JPG"
+                        type="3" />
+
+                    <element
+                        id="2044"
+                        name="霍永承.JPG"
+                        elemTempId="selected_elem_141"
+                        life="10"
+                        resolution="930x2556"
+                        src="ftpFile\processed\b71e1b528e0650b58a11fa72afafa267.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb71e1b528e0650b58a11fa72afafa267.JPG"
+                        type="3" />
+
+                    <element
+                        id="2042"
+                        name="边国华.JPG"
+                        elemTempId="selected_elem_142"
+                        life="10"
+                        resolution="912x2484"
+                        src="ftpFile\processed\00693c9ae7d25e3e1835b559be9cbb64.JPG"
+                        thumbnailUrl="ftpFile\processed\img00693c9ae7d25e3e1835b559be9cbb64.JPG"
+                        type="3" />
+
+                    <element
+                        id="2043"
+                        name="胡惠群.JPG"
+                        elemTempId="selected_elem_143"
+                        life="10"
+                        resolution="942x2484"
+                        src="ftpFile\processed\a6c1d4ccc19d4161df85ffb16406b648.JPG"
+                        thumbnailUrl="ftpFile\processed\imga6c1d4ccc19d4161df85ffb16406b648.JPG"
+                        type="3" />
+
+                    <element
+                        id="2040"
+                        name="陈培伦.JPG"
+                        elemTempId="selected_elem_144"
+                        life="10"
+                        resolution="1026x2478"
+                        src="ftpFile\processed\48fed88c21446eef9fad33d0318b0ed2.JPG"
+                        thumbnailUrl="ftpFile\processed\img48fed88c21446eef9fad33d0318b0ed2.JPG"
+                        type="3" />
+
+                    <element
+                        id="2039"
+                        name="胡盂炎.JPG"
+                        elemTempId="selected_elem_145"
+                        life="10"
+                        resolution="936x2520"
+                        src="ftpFile\processed\4a05164fcd1fc3d75708037a2da81e22.JPG"
+                        thumbnailUrl="ftpFile\processed\img4a05164fcd1fc3d75708037a2da81e22.JPG"
+                        type="3" />
+
+                    <element
+                        id="2041"
+                        name="白朴.JPG"
+                        elemTempId="selected_elem_146"
+                        life="10"
+                        resolution="978x2568"
+                        src="ftpFile\processed\6bae0f1e4875861b1ab7f66d27257393.JPG"
+                        thumbnailUrl="ftpFile\processed\img6bae0f1e4875861b1ab7f66d27257393.JPG"
+                        type="3" />
+
+                    <element
+                        id="2034"
+                        name="F045097.jpg"
+                        elemTempId="selected_elem_147"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\cda9fbcdfd6951c07c4ac4bb288fee75.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcda9fbcdfd6951c07c4ac4bb288fee75.jpg"
+                        type="3" />
+
+                    <element
+                        id="2037"
+                        name="F045085.jpg"
+                        elemTempId="selected_elem_148"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\deb389e6fa1afb9526ff979968c89ca0.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdeb389e6fa1afb9526ff979968c89ca0.jpg"
+                        type="3" />
+
+                    <element
+                        id="2035"
+                        name="F045068.jpg"
+                        elemTempId="selected_elem_149"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\b7c87e044624f36097afed8ac55b82fb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb7c87e044624f36097afed8ac55b82fb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2036"
+                        name="F045067.jpg"
+                        elemTempId="selected_elem_150"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\d7c1e7f932e8212c082dbc9bc4cdb83b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd7c1e7f932e8212c082dbc9bc4cdb83b.jpg"
+                        type="3" />
+                </album>
+            </plug>
+
+            <button
+                id="button2"
+                name="互动按钮"
+                style="0"
+                backcolor=""
+                backimg=""
+                fontcolor=""
+                fontfamily=""
+                fontsize=""
+                height="156"
+                imgstyle=""
+                left="52"
+                sceneid="scene2"
+                top="75"
+                type="1"
+                value="互动按钮"
+                width="182"
+                zIndex="6002" />
+        </scene>
+
+        <scene
+            id="scene2"
+            backcolor=""
+            backimg=""
+            ismain="false"
+            region="null"
+            sceneName="场景2" >
+
+            <plug
+                id="plug3"
+                name="互动相册"
+                elemlife=""
+                height="1280"
+                left="0"
+                top="0"
+                type="1"
+                width="720"
+                zIndex="5004" >
+
+                <album style="201" >
+
+                    <element
+                        id="2228"
+                        name="搜索框文字描述不明确.png"
+                        elemTempId="selected_elem_151"
+                        life="10"
+                        resolution="1552x700"
+                        src="ftpFile\processed\07957bd3d649fa9bfe36171b06bded60.png"
+                        thumbnailUrl="ftpFile\processed\img07957bd3d649fa9bfe36171b06bded60.png"
+                        type="3" />
+
+                    <element
+                        id="2229"
+                        name="15.jpg"
+                        elemTempId="selected_elem_152"
+                        life="10"
+                        resolution="1600x900"
+                        src="ftpFile\processed\b129b4e7d5903a171da2a82c42ff7836.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb129b4e7d5903a171da2a82c42ff7836.jpg"
+                        type="3" />
+
+                    <element
+                        id="2104"
+                        name="Desert.jpg"
+                        elemTempId="selected_elem_153"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\ba45c8f60456a672e003a875e469d0eb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgba45c8f60456a672e003a875e469d0eb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2138"
+                        name="Chrysanthemum.jpg"
+                        elemTempId="selected_elem_154"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        thumbnailUrl="ftpFile\processed\img076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        type="3" />
+
+                    <element
+                        id="1796"
+                        name="养生调理15.Png"
+                        elemTempId="selected_elem_155"
+                        life="10"
+                        resolution="2315x1323"
+                        src="ftpFile\processed\7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        thumbnailUrl="ftpFile\processed\img7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        type="3" />
+
+                    <element
+                        id="2143"
+                        name="15.jpg"
+                        elemTempId="selected_elem_156"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\022a4a9821eaa37fa6a181c038168bec.jpg"
+                        thumbnailUrl="ftpFile\processed\img022a4a9821eaa37fa6a181c038168bec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2226"
+                        name="双旗科技体验中心 1280x800.png"
+                        elemTempId="selected_elem_157"
+                        life="10"
+                        resolution=""
+                        src="ftpFile\processed\ffe15041b8c16092391d88b922ca50b4.png"
+                        thumbnailUrl="ftpFile\processed\imgffe15041b8c16092391d88b922ca50b4.png"
+                        type="3" />
+
+                    <element
+                        id="2205"
+                        name="艾非尔铁塔.JPG"
+                        elemTempId="selected_elem_158"
+                        life="10"
+                        resolution="1280x3465"
+                        src="ftpFile\processed\e8538d8069fa4cfe3a033d6f00421752.JPG"
+                        thumbnailUrl="ftpFile\processed\imge8538d8069fa4cfe3a033d6f00421752.JPG"
+                        type="3" />
+
+                    <element
+                        id="2206"
+                        name="woman.JPG"
+                        elemTempId="selected_elem_159"
+                        life="10"
+                        resolution="1465x3880"
+                        src="ftpFile\processed\8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        thumbnailUrl="ftpFile\processed\img8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        type="3" />
+
+                    <element
+                        id="2207"
+                        name="sea.JPG"
+                        elemTempId="selected_elem_160"
+                        life="10"
+                        resolution="1900x4960"
+                        src="ftpFile\processed\526fb88cac99f3f6308422975a0a6cae.JPG"
+                        thumbnailUrl="ftpFile\processed\img526fb88cac99f3f6308422975a0a6cae.JPG"
+                        type="3" />
+
+                    <element
+                        id="2208"
+                        name="6.jpg"
+                        elemTempId="selected_elem_161"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\b67342c859f8a09a9fd1414baab69d42.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb67342c859f8a09a9fd1414baab69d42.jpg"
+                        type="3" />
+
+                    <element
+                        id="494"
+                        name="5.jpg"
+                        elemTempId="selected_elem_162"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\62f781ab4225ee0571eb93f162ee68cb.jpg"
+                        thumbnailUrl="ftpFile\processed\img62f781ab4225ee0571eb93f162ee68cb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2209"
+                        name="4.jpg"
+                        elemTempId="selected_elem_163"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\63d5eead6a33913e7b4c593c874f83f5.jpg"
+                        thumbnailUrl="ftpFile\processed\img63d5eead6a33913e7b4c593c874f83f5.jpg"
+                        type="3" />
+
+                    <element
+                        id="497"
+                        name="3.jpg"
+                        elemTempId="selected_elem_164"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\69f36e7d397c8a8c3ba4d5c62074fe60.jpg"
+                        thumbnailUrl="ftpFile\processed\img69f36e7d397c8a8c3ba4d5c62074fe60.jpg"
+                        type="3" />
+
+                    <element
+                        id="495"
+                        name="1.jpg"
+                        elemTempId="selected_elem_165"
+                        life="10"
+                        resolution="1080x3840"
+                        src="ftpFile\processed\42c299b0427853d979befc0484795766.jpg"
+                        thumbnailUrl="ftpFile\processed\img42c299b0427853d979befc0484795766.jpg"
+                        type="3" />
+
+                    <element
+                        id="2199"
+                        name="fly12.jpg"
+                        elemTempId="selected_elem_166"
+                        life="10"
+                        resolution="4080x1536"
+                        src="ftpFile\processed\d0041978aa55b44589bf24752c7b0cbb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd0041978aa55b44589bf24752c7b0cbb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2200"
+                        name="15.png"
+                        elemTempId="selected_elem_167"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\f118e29b16e4e9d7709bc889aab1fe33.png"
+                        thumbnailUrl="ftpFile\processed\imgf118e29b16e4e9d7709bc889aab1fe33.png"
+                        type="3" />
+
+                    <element
+                        id="2196"
+                        name="Y.jpg"
+                        elemTempId="selected_elem_168"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\d463fdf6607da3b13fab5612d3b50dce.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd463fdf6607da3b13fab5612d3b50dce.jpg"
+                        type="3" />
+
+                    <element
+                        id="2189"
+                        name="X.jpg"
+                        elemTempId="selected_elem_169"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                        thumbnailUrl="ftpFile\processed\img5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                        type="3" />
+
+                    <element
+                        id="2194"
+                        name="W.jpg"
+                        elemTempId="selected_elem_170"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\93909019e1309425056d0888cb65b443.jpg"
+                        thumbnailUrl="ftpFile\processed\img93909019e1309425056d0888cb65b443.jpg"
+                        type="3" />
+
+                    <element
+                        id="2187"
+                        name="u=3551317513,3799452752&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_171"
+                        life="10"
+                        resolution="222x220"
+                        src="ftpFile\processed\42b37283f95cb401128fdf91fa55d635.jpg"
+                        thumbnailUrl="ftpFile\processed\img42b37283f95cb401128fdf91fa55d635.jpg"
+                        type="3" />
+
+                    <element
+                        id="2197"
+                        name="U.jpg"
+                        elemTempId="selected_elem_172"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\e0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        thumbnailUrl="ftpFile\processed\imge0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2193"
+                        name="77dab59eef69d1120f437541e8_560.jpg"
+                        elemTempId="selected_elem_173"
+                        life="10"
+                        resolution="560x560"
+                        src="ftpFile\processed\910eebc4ff1db1c786fef21359a601a6.jpg"
+                        thumbnailUrl="ftpFile\processed\img910eebc4ff1db1c786fef21359a601a6.jpg"
+                        type="3" />
+
+                    <element
+                        id="2192"
+                        name="19.gif"
+                        elemTempId="selected_elem_174"
+                        life="10"
+                        resolution="800x644"
+                        src="ftpFile\processed\659323f99bf2e56d8a37b54be16cc028.gif"
+                        thumbnailUrl="ftpFile\processed\img659323f99bf2e56d8a37b54be16cc028.gif"
+                        type="3" />
+
+                    <element
+                        id="2188"
+                        name="18.png"
+                        elemTempId="selected_elem_175"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\47f3fec60db56e7d5323d21d609c3b25.png"
+                        thumbnailUrl="ftpFile\processed\img47f3fec60db56e7d5323d21d609c3b25.png"
+                        type="3" />
+
+                    <element
+                        id="2191"
+                        name="17.png"
+                        elemTempId="selected_elem_176"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\8b84ea20ad7f01bd875e6472b12aee18.png"
+                        thumbnailUrl="ftpFile\processed\img8b84ea20ad7f01bd875e6472b12aee18.png"
+                        type="3" />
+
+                    <element
+                        id="2195"
+                        name="16.png"
+                        elemTempId="selected_elem_177"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\a7fced47cbbe46b3950a804698f048f5.png"
+                        thumbnailUrl="ftpFile\processed\imga7fced47cbbe46b3950a804698f048f5.png"
+                        type="3" />
+
+                    <element
+                        id="2190"
+                        name="14.png"
+                        elemTempId="selected_elem_178"
+                        life="10"
+                        resolution="1288x559"
+                        src="ftpFile\processed\7dc61228f68ab2fa986b9f2facf8477c.png"
+                        thumbnailUrl="ftpFile\processed\img7dc61228f68ab2fa986b9f2facf8477c.png"
+                        type="3" />
+
+                    <element
+                        id="2184"
+                        name="V.jpg"
+                        elemTempId="selected_elem_179"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2182"
+                        name="u=2970845689,4239443281&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_180"
+                        life="10"
+                        resolution="176x220"
+                        src="ftpFile\processed\08e0716377744d7150427e9f1ae2de1c.jpg"
+                        thumbnailUrl="ftpFile\processed\img08e0716377744d7150427e9f1ae2de1c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2173"
+                        name="N.jpg"
+                        elemTempId="selected_elem_181"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\7746e68ebbc41e187a5a52f3bb727d09.jpg"
+                        thumbnailUrl="ftpFile\processed\img7746e68ebbc41e187a5a52f3bb727d09.jpg"
+                        type="3" />
+
+                    <element
+                        id="2172"
+                        name="M.jpg"
+                        elemTempId="selected_elem_182"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\b322bdf24d9d8228ebf400a25cf975da.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb322bdf24d9d8228ebf400a25cf975da.jpg"
+                        type="3" />
+
+                    <element
+                        id="2169"
+                        name="L.jpg"
+                        elemTempId="selected_elem_183"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\1965eb86945bf1015f1b335cb75049da.jpg"
+                        thumbnailUrl="ftpFile\processed\img1965eb86945bf1015f1b335cb75049da.jpg"
+                        type="3" />
+
+                    <element
+                        id="2171"
+                        name="K.jpg"
+                        elemTempId="selected_elem_184"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\73a0ccacb082dddadb7cadcc6755f5ed.jpg"
+                        thumbnailUrl="ftpFile\processed\img73a0ccacb082dddadb7cadcc6755f5ed.jpg"
+                        type="3" />
+
+                    <element
+                        id="2167"
+                        name="J.jpg"
+                        elemTempId="selected_elem_185"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\237ce5ead6b1a55987464ab6db02ee46.jpg"
+                        thumbnailUrl="ftpFile\processed\img237ce5ead6b1a55987464ab6db02ee46.jpg"
+                        type="3" />
+
+                    <element
+                        id="2166"
+                        name="I.jpg"
+                        elemTempId="selected_elem_186"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\c6662e3e4b7bb81a4de434f3d97fe4c6.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc6662e3e4b7bb81a4de434f3d97fe4c6.jpg"
+                        type="3" />
+
+                    <element
+                        id="2165"
+                        name="H.jpg"
+                        elemTempId="selected_elem_187"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\4c7cca1a057592def71f1734e1153b25.jpg"
+                        thumbnailUrl="ftpFile\processed\img4c7cca1a057592def71f1734e1153b25.jpg"
+                        type="3" />
+
+                    <element
+                        id="2164"
+                        name="G.jpg"
+                        elemTempId="selected_elem_188"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\bf853fdb94a39f0f33b240e3fb5e58a3.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbf853fdb94a39f0f33b240e3fb5e58a3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2163"
+                        name="F.jpg"
+                        elemTempId="selected_elem_189"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\f6881655b8d0366b46bf1ca7c8930cf7.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf6881655b8d0366b46bf1ca7c8930cf7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2181"
+                        name="E.jpg"
+                        elemTempId="selected_elem_190"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\67dd33d40794ec74a6b666a52400d9bd.jpg"
+                        thumbnailUrl="ftpFile\processed\img67dd33d40794ec74a6b666a52400d9bd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2149"
+                        name="5.jpg"
+                        elemTempId="selected_elem_191"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\a5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        thumbnailUrl="ftpFile\processed\imga5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2145"
+                        name="4.jpg"
+                        elemTempId="selected_elem_192"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        thumbnailUrl="ftpFile\processed\img2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2150"
+                        name="3.jpg"
+                        elemTempId="selected_elem_193"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\b4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        type="3" />
+
+                    <element
+                        id="2152"
+                        name="2.jpg"
+                        elemTempId="selected_elem_194"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\f67b793c4ef1e2a71300265fda023841.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf67b793c4ef1e2a71300265fda023841.jpg"
+                        type="3" />
+
+                    <element
+                        id="2146"
+                        name="1.jpg"
+                        elemTempId="selected_elem_195"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\463dfde36781894f33f863596685bc70.jpg"
+                        thumbnailUrl="ftpFile\processed\img463dfde36781894f33f863596685bc70.jpg"
+                        type="3" />
+
+                    <element
+                        id="975"
+                        name="9.jpg"
+                        elemTempId="selected_elem_196"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\32a892042674dd9b50b879b62c354da1.jpg"
+                        thumbnailUrl="ftpFile\processed\img32a892042674dd9b50b879b62c354da1.jpg"
+                        type="3" />
+
+                    <element
+                        id="973"
+                        name="8.jpg"
+                        elemTempId="selected_elem_197"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\390d094a051ade86883d2c62cd095d90.jpg"
+                        thumbnailUrl="ftpFile\processed\img390d094a051ade86883d2c62cd095d90.jpg"
+                        type="3" />
+
+                    <element
+                        id="977"
+                        name="7.jpg"
+                        elemTempId="selected_elem_198"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\6081f50d36e6e5b85a302d50d7246659.jpg"
+                        thumbnailUrl="ftpFile\processed\img6081f50d36e6e5b85a302d50d7246659.jpg"
+                        type="3" />
+
+                    <element
+                        id="974"
+                        name="6.jpg"
+                        elemTempId="selected_elem_199"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\142c2cad8117b18f25ca76664881b5de.jpg"
+                        thumbnailUrl="ftpFile\processed\img142c2cad8117b18f25ca76664881b5de.jpg"
+                        type="3" />
+
+                    <element
+                        id="972"
+                        name="5.jpg"
+                        elemTempId="selected_elem_200"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\141dbab2e13fee35831cc6627518bfd4.jpg"
+                        thumbnailUrl="ftpFile\processed\img141dbab2e13fee35831cc6627518bfd4.jpg"
+                        type="3" />
+
+                    <element
+                        id="2136"
+                        name="F045046.jpg"
+                        elemTempId="selected_elem_201"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\fcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2137"
+                        name="F045007.jpg"
+                        elemTempId="selected_elem_202"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\d5fdf951d05487c94c5cca022724b563.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd5fdf951d05487c94c5cca022724b563.jpg"
+                        type="3" />
+
+                    <element
+                        id="2133"
+                        name="F045028.jpg"
+                        elemTempId="selected_elem_203"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7624a792f8227c2006ed490eda4fe81f.jpg"
+                        thumbnailUrl="ftpFile\processed\img7624a792f8227c2006ed490eda4fe81f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2134"
+                        name="F045021.jpg"
+                        elemTempId="selected_elem_204"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\a28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        thumbnailUrl="ftpFile\processed\imga28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        type="3" />
+
+                    <element
+                        id="2132"
+                        name="F045008.jpg"
+                        elemTempId="selected_elem_205"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        thumbnailUrl="ftpFile\processed\img0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        type="3" />
+
+                    <element
+                        id="2130"
+                        name="F045098.jpg"
+                        elemTempId="selected_elem_206"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7858341cbf9e7863890673074128e8d3.jpg"
+                        thumbnailUrl="ftpFile\processed\img7858341cbf9e7863890673074128e8d3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2131"
+                        name="F045056.jpg"
+                        elemTempId="selected_elem_207"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\94b080aeb7042079f39bb2efa98d8289.jpg"
+                        thumbnailUrl="ftpFile\processed\img94b080aeb7042079f39bb2efa98d8289.jpg"
+                        type="3" />
+
+                    <element
+                        id="2127"
+                        name="F045074.jpg"
+                        elemTempId="selected_elem_208"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        thumbnailUrl="ftpFile\processed\img34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        type="3" />
+
+                    <element
+                        id="2128"
+                        name="F045061.jpg"
+                        elemTempId="selected_elem_209"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\37badd929413aa3c126f86b0a84af0ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img37badd929413aa3c126f86b0a84af0ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2129"
+                        name="F045057.jpg"
+                        elemTempId="selected_elem_210"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        thumbnailUrl="ftpFile\processed\img35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        type="3" />
+
+                    <element
+                        id="2126"
+                        name="05.jpg"
+                        elemTempId="selected_elem_211"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\f49fdd91a6296e1e226944a9a9b67c75.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf49fdd91a6296e1e226944a9a9b67c75.jpg"
+                        type="3" />
+
+                    <element
+                        id="2125"
+                        name="03.jpg"
+                        elemTempId="selected_elem_212"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\ee78445c302d81e9aa97c6b46f0d7122.jpg"
+                        thumbnailUrl="ftpFile\processed\imgee78445c302d81e9aa97c6b46f0d7122.jpg"
+                        type="3" />
+
+                    <element
+                        id="2124"
+                        name="04.jpg"
+                        elemTempId="selected_elem_213"
+                        life="10"
+                        resolution="2271x1252"
+                        src="ftpFile\processed\e9c5fabf2197d992691d33917e65f438.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9c5fabf2197d992691d33917e65f438.jpg"
+                        type="3" />
+
+                    <element
+                        id="2122"
+                        name="02.jpg"
+                        elemTempId="selected_elem_214"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\df6d4919eb94efeef1d2e592f72ea3cd.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdf6d4919eb94efeef1d2e592f72ea3cd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2123"
+                        name="01.jpg"
+                        elemTempId="selected_elem_215"
+                        life="10"
+                        resolution="2268x1252"
+                        src="ftpFile\processed\25ec0066e538dc12dd545775784059aa.jpg"
+                        thumbnailUrl="ftpFile\processed\img25ec0066e538dc12dd545775784059aa.jpg"
+                        type="3" />
+
+                    <element
+                        id="2121"
+                        name="飞机场广告1.jpg"
+                        elemTempId="selected_elem_216"
+                        life="10"
+                        resolution="16717x9427"
+                        src="ftpFile\processed\5ac836f29696c1a450f2f6938a1c140f.jpg"
+                        thumbnailUrl="ftpFile\processed\img5ac836f29696c1a450f2f6938a1c140f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2117"
+                        name="5娱乐篇.jpg"
+                        elemTempId="selected_elem_217"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\08aa737f440b83022152ec87554bee8c.jpg"
+                        thumbnailUrl="ftpFile\processed\img08aa737f440b83022152ec87554bee8c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2118"
+                        name="4社交篇.jpg"
+                        elemTempId="selected_elem_218"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\259115dd71da8bc7ac7e49cdd911119d.jpg"
+                        thumbnailUrl="ftpFile\processed\img259115dd71da8bc7ac7e49cdd911119d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2119"
+                        name="3商务篇.jpg"
+                        elemTempId="selected_elem_219"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\89d840667feaebabec001d3543568d9a.jpg"
+                        thumbnailUrl="ftpFile\processed\img89d840667feaebabec001d3543568d9a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2120"
+                        name="2购物篇.jpg"
+                        elemTempId="selected_elem_220"
+                        life="10"
+                        resolution="8271x4654"
+                        src="ftpFile\processed\b6e00a65bbcfd24eb34b4dc1af3721b5.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb6e00a65bbcfd24eb34b4dc1af3721b5.jpg"
+                        type="3" />
+
+                    <element
+                        id="2106"
+                        name="Hydrangeas~.jpg"
+                        elemTempId="selected_elem_221"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\bdf3bf1da3405725be763540d6601144.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbdf3bf1da3405725be763540d6601144.jpg"
+                        type="3" />
+
+                    <element
+                        id="2105"
+                        name="ccccc.jpg"
+                        elemTempId="selected_elem_222"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\fafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        type="3" />
+
+                    <element
+                        id="2103"
+                        name="bvbbbb.jpg"
+                        elemTempId="selected_elem_223"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        thumbnailUrl="ftpFile\processed\img9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2102"
+                        name="aaaaa.jpg"
+                        elemTempId="selected_elem_224"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\8969288f4245120e7c3870287cce0ff3.jpg"
+                        thumbnailUrl="ftpFile\processed\img8969288f4245120e7c3870287cce0ff3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2101"
+                        name="1111.jpg"
+                        elemTempId="selected_elem_225"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        thumbnailUrl="ftpFile\processed\img076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2097"
+                        name="点击进入.png"
+                        elemTempId="selected_elem_226"
+                        life="10"
+                        resolution="193x193"
+                        src="ftpFile\processed\8fce14129f10cc540083b6319197d7ab.png"
+                        thumbnailUrl="ftpFile\processed\img8fce14129f10cc540083b6319197d7ab.png"
+                        type="3" />
+
+                    <element
+                        id="2093"
+                        name="ZL130207_R.jpg"
+                        elemTempId="selected_elem_227"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\f1e7e10cada1852393fc2e10e174633b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf1e7e10cada1852393fc2e10e174633b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2090"
+                        name="ZL130207_L.jpg"
+                        elemTempId="selected_elem_228"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\8f60d7568ede5f81c986e908ec0a08cd.jpg"
+                        thumbnailUrl="ftpFile\processed\img8f60d7568ede5f81c986e908ec0a08cd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2089"
+                        name="LBG20130106_R.jpg"
+                        elemTempId="selected_elem_229"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\fcba6d899c09ab8cbc1b14ddcafc346d.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfcba6d899c09ab8cbc1b14ddcafc346d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2085"
+                        name="LBG20130106_L.jpg"
+                        elemTempId="selected_elem_230"
+                        life="10"
+                        resolution="1920x1080"
+                        src="ftpFile\processed\29ef151b9c5e2ee0d216f3de84af886e.jpg"
+                        thumbnailUrl="ftpFile\processed\img29ef151b9c5e2ee0d216f3de84af886e.jpg"
+                        type="3" />
+
+                    <element
+                        id="2083"
+                        name="郑广法.JPG"
+                        elemTempId="selected_elem_231"
+                        life="10"
+                        resolution="990x2460"
+                        src="ftpFile\processed\d102adc2384e6ac38b3facd74b41c4bd.JPG"
+                        thumbnailUrl="ftpFile\processed\imgd102adc2384e6ac38b3facd74b41c4bd.JPG"
+                        type="3" />
+
+                    <element
+                        id="2082"
+                        name="赵继昌.JPG"
+                        elemTempId="selected_elem_232"
+                        life="10"
+                        resolution="918x2580"
+                        src="ftpFile\processed\9e4f4871ad26442ad72a756a88e8d962.JPG"
+                        thumbnailUrl="ftpFile\processed\img9e4f4871ad26442ad72a756a88e8d962.JPG"
+                        type="3" />
+
+                    <element
+                        id="2080"
+                        name="赵石柱.JPG"
+                        elemTempId="selected_elem_233"
+                        life="10"
+                        resolution="864x2424"
+                        src="ftpFile\processed\addf83ccfa22004ed9d462f3381c0c18.JPG"
+                        thumbnailUrl="ftpFile\processed\imgaddf83ccfa22004ed9d462f3381c0c18.JPG"
+                        type="3" />
+
+                    <element
+                        id="2079"
+                        name="赵宗岩.JPG"
+                        elemTempId="selected_elem_234"
+                        life="10"
+                        resolution="918x2586"
+                        src="ftpFile\processed\8283bb162abc451c313bf79f041cb2b4.JPG"
+                        thumbnailUrl="ftpFile\processed\img8283bb162abc451c313bf79f041cb2b4.JPG"
+                        type="3" />
+
+                    <element
+                        id="2078"
+                        name="赵士毅.JPG"
+                        elemTempId="selected_elem_235"
+                        life="10"
+                        resolution="978x2568"
+                        src="ftpFile\processed\136a0bb47491a412fdb95aeca2f7aeb1.JPG"
+                        thumbnailUrl="ftpFile\processed\img136a0bb47491a412fdb95aeca2f7aeb1.JPG"
+                        type="3" />
+
+                    <element
+                        id="2081"
+                        name="朱生泉.JPG"
+                        elemTempId="selected_elem_236"
+                        life="10"
+                        resolution="924x2550"
+                        src="ftpFile\processed\b3ac1d8c465154bf62e1702d2c5106f3.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb3ac1d8c465154bf62e1702d2c5106f3.JPG"
+                        type="3" />
+
+                    <element
+                        id="2077"
+                        name="张金生.JPG"
+                        elemTempId="selected_elem_237"
+                        life="10"
+                        resolution="948x2574"
+                        src="ftpFile\processed\10a57368e8045644b217104eb85ebae1.JPG"
+                        thumbnailUrl="ftpFile\processed\img10a57368e8045644b217104eb85ebae1.JPG"
+                        type="3" />
+
+                    <element
+                        id="2084"
+                        name="张民.JPG"
+                        elemTempId="selected_elem_238"
+                        life="10"
+                        resolution="996x2562"
+                        src="ftpFile\processed\c3136ae09d15f9f9c62a34285083c278.JPG"
+                        thumbnailUrl="ftpFile\processed\imgc3136ae09d15f9f9c62a34285083c278.JPG"
+                        type="3" />
+
+                    <element
+                        id="2072"
+                        name="杨茜麟.JPG"
+                        elemTempId="selected_elem_239"
+                        life="10"
+                        resolution="888x2472"
+                        src="ftpFile\processed\04878d9eef44d8c7d04b23c4ac3c5554.JPG"
+                        thumbnailUrl="ftpFile\processed\img04878d9eef44d8c7d04b23c4ac3c5554.JPG"
+                        type="3" />
+
+                    <element
+                        id="2075"
+                        name="杨开金.JPG"
+                        elemTempId="selected_elem_240"
+                        life="10"
+                        resolution="954x2508"
+                        src="ftpFile\processed\b7fc981632a89bdc726e6bf485dab0ec.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb7fc981632a89bdc726e6bf485dab0ec.JPG"
+                        type="3" />
+
+                    <element
+                        id="2073"
+                        name="张继义1.JPG"
+                        elemTempId="selected_elem_241"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\23bd873a79f6a3442b76ec0a2ccb6893.JPG"
+                        thumbnailUrl="ftpFile\processed\img23bd873a79f6a3442b76ec0a2ccb6893.JPG"
+                        type="3" />
+
+                    <element
+                        id="2074"
+                        name="张继义.JPG"
+                        elemTempId="selected_elem_242"
+                        life="10"
+                        resolution="930x2544"
+                        src="ftpFile\processed\85467dc4a24271a7b0c6cc7170295eeb.JPG"
+                        thumbnailUrl="ftpFile\processed\img85467dc4a24271a7b0c6cc7170295eeb.JPG"
+                        type="3" />
+
+                    <element
+                        id="2076"
+                        name="张崇福.JPG"
+                        elemTempId="selected_elem_243"
+                        life="10"
+                        resolution="924x2520"
+                        src="ftpFile\processed\e13beab6c3374d1c7a02baadbe760814.JPG"
+                        thumbnailUrl="ftpFile\processed\imge13beab6c3374d1c7a02baadbe760814.JPG"
+                        type="3" />
+
+                    <element
+                        id="2068"
+                        name="许淑香.JPG"
+                        elemTempId="selected_elem_244"
+                        life="10"
+                        resolution="924x2538"
+                        src="ftpFile\processed\faff18d025edbae92ded77ba23074960.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfaff18d025edbae92ded77ba23074960.JPG"
+                        type="3" />
+
+                    <element
+                        id="2069"
+                        name="田国良.JPG"
+                        elemTempId="selected_elem_245"
+                        life="10"
+                        resolution="936x2538"
+                        src="ftpFile\processed\fceccb5d3e30c554220b5f0b9f4dc1d4.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfceccb5d3e30c554220b5f0b9f4dc1d4.JPG"
+                        type="3" />
+
+                    <element
+                        id="2070"
+                        name="王金香.JPG"
+                        elemTempId="selected_elem_246"
+                        life="10"
+                        resolution="942x2526"
+                        src="ftpFile\processed\df734b9869fdc5ca72a2b0c14ee27016.JPG"
+                        thumbnailUrl="ftpFile\processed\imgdf734b9869fdc5ca72a2b0c14ee27016.JPG"
+                        type="3" />
+
+                    <element
+                        id="2071"
+                        name="王松美.JPG"
+                        elemTempId="selected_elem_247"
+                        life="10"
+                        resolution="942x2502"
+                        src="ftpFile\processed\fe20a22c24e361656341c29b11b56746.JPG"
+                        thumbnailUrl="ftpFile\processed\imgfe20a22c24e361656341c29b11b56746.JPG"
+                        type="3" />
+
+                    <element
+                        id="2067"
+                        name="谢祖蕴.JPG"
+                        elemTempId="selected_elem_248"
+                        life="10"
+                        resolution="960x2544"
+                        src="ftpFile\processed\a05587bcfda580ec9a55fec2a30e0658.JPG"
+                        thumbnailUrl="ftpFile\processed\imga05587bcfda580ec9a55fec2a30e0658.JPG"
+                        type="3" />
+
+                    <element
+                        id="2060"
+                        name="苏笑春.JPG"
+                        elemTempId="selected_elem_249"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\3f3f2a29a12a98b91f11fef662085c74.JPG"
+                        thumbnailUrl="ftpFile\processed\img3f3f2a29a12a98b91f11fef662085c74.JPG"
+                        type="3" />
+
+                    <element
+                        id="2062"
+                        name="田锋.JPG"
+                        elemTempId="selected_elem_250"
+                        life="10"
+                        resolution="966x2568"
+                        src="ftpFile\processed\8f68dff95aa636742fda3ae4984a9ff0.JPG"
+                        thumbnailUrl="ftpFile\processed\img8f68dff95aa636742fda3ae4984a9ff0.JPG"
+                        type="3" />
+
+                    <element
+                        id="2054"
+                        name="李凤霞.JPG"
+                        elemTempId="selected_elem_251"
+                        life="10"
+                        resolution="972x2442"
+                        src="ftpFile\processed\e429b1ce376f779d16f22f12780082b5.JPG"
+                        thumbnailUrl="ftpFile\processed\imge429b1ce376f779d16f22f12780082b5.JPG"
+                        type="3" />
+
+                    <element
+                        id="2053"
+                        name="刘志杰.JPG"
+                        elemTempId="selected_elem_252"
+                        life="10"
+                        resolution="918x2502"
+                        src="ftpFile\processed\f01454daade1d8e5e736eea74c9f8d0f.JPG"
+                        thumbnailUrl="ftpFile\processed\imgf01454daade1d8e5e736eea74c9f8d0f.JPG"
+                        type="3" />
+
+                    <element
+                        id="2052"
+                        name="刘宝霖.JPG"
+                        elemTempId="selected_elem_253"
+                        life="10"
+                        resolution="942x2550"
+                        src="ftpFile\processed\a9ee0ce9e2bca43992545d1fbc4c092a.JPG"
+                        thumbnailUrl="ftpFile\processed\imga9ee0ce9e2bca43992545d1fbc4c092a.JPG"
+                        type="3" />
+
+                    <element
+                        id="2049"
+                        name="马宏猷.JPG"
+                        elemTempId="selected_elem_254"
+                        life="10"
+                        resolution="966x2562"
+                        src="ftpFile\processed\1c212ca81777a422878443417d4380f2.JPG"
+                        thumbnailUrl="ftpFile\processed\img1c212ca81777a422878443417d4380f2.JPG"
+                        type="3" />
+
+                    <element
+                        id="2050"
+                        name="康殿桐.JPG"
+                        elemTempId="selected_elem_255"
+                        life="10"
+                        resolution="972x2586"
+                        src="ftpFile\processed\3723350cf148d26f9e96f8f2c932e32e.JPG"
+                        thumbnailUrl="ftpFile\processed\img3723350cf148d26f9e96f8f2c932e32e.JPG"
+                        type="3" />
+
+                    <element
+                        id="2051"
+                        name="刘兆云.JPG"
+                        elemTempId="selected_elem_256"
+                        life="10"
+                        resolution="924x2514"
+                        src="ftpFile\processed\91a6115800301c2d641754c4d990b358.JPG"
+                        thumbnailUrl="ftpFile\processed\img91a6115800301c2d641754c4d990b358.JPG"
+                        type="3" />
+
+                    <element
+                        id="2046"
+                        name="陈淑英.JPG"
+                        elemTempId="selected_elem_257"
+                        life="10"
+                        resolution="954x2514"
+                        src="ftpFile\processed\cf6004843c45f01fbdc769e59fdc1127.JPG"
+                        thumbnailUrl="ftpFile\processed\imgcf6004843c45f01fbdc769e59fdc1127.JPG"
+                        type="3" />
+
+                    <element
+                        id="2045"
+                        name="邓青.JPG"
+                        elemTempId="selected_elem_258"
+                        life="10"
+                        resolution="990x2580"
+                        src="ftpFile\processed\af325a2b01febd2c191869c0c865bac7.JPG"
+                        thumbnailUrl="ftpFile\processed\imgaf325a2b01febd2c191869c0c865bac7.JPG"
+                        type="3" />
+
+                    <element
+                        id="2047"
+                        name="耿墨学.JPG"
+                        elemTempId="selected_elem_259"
+                        life="10"
+                        resolution="906x2460"
+                        src="ftpFile\processed\da40f48277503917e4055e34f95d4b43.JPG"
+                        thumbnailUrl="ftpFile\processed\imgda40f48277503917e4055e34f95d4b43.JPG"
+                        type="3" />
+
+                    <element
+                        id="2048"
+                        name="冯经湖.JPG"
+                        elemTempId="selected_elem_260"
+                        life="10"
+                        resolution="870x2412"
+                        src="ftpFile\processed\de20ed2c257a83bc69bd8ccd9fc4bbb5.JPG"
+                        thumbnailUrl="ftpFile\processed\imgde20ed2c257a83bc69bd8ccd9fc4bbb5.JPG"
+                        type="3" />
+
+                    <element
+                        id="2044"
+                        name="霍永承.JPG"
+                        elemTempId="selected_elem_261"
+                        life="10"
+                        resolution="930x2556"
+                        src="ftpFile\processed\b71e1b528e0650b58a11fa72afafa267.JPG"
+                        thumbnailUrl="ftpFile\processed\imgb71e1b528e0650b58a11fa72afafa267.JPG"
+                        type="3" />
+
+                    <element
+                        id="2042"
+                        name="边国华.JPG"
+                        elemTempId="selected_elem_262"
+                        life="10"
+                        resolution="912x2484"
+                        src="ftpFile\processed\00693c9ae7d25e3e1835b559be9cbb64.JPG"
+                        thumbnailUrl="ftpFile\processed\img00693c9ae7d25e3e1835b559be9cbb64.JPG"
+                        type="3" />
+
+                    <element
+                        id="2043"
+                        name="胡惠群.JPG"
+                        elemTempId="selected_elem_263"
+                        life="10"
+                        resolution="942x2484"
+                        src="ftpFile\processed\a6c1d4ccc19d4161df85ffb16406b648.JPG"
+                        thumbnailUrl="ftpFile\processed\imga6c1d4ccc19d4161df85ffb16406b648.JPG"
+                        type="3" />
+
+                    <element
+                        id="2040"
+                        name="陈培伦.JPG"
+                        elemTempId="selected_elem_264"
+                        life="10"
+                        resolution="1026x2478"
+                        src="ftpFile\processed\48fed88c21446eef9fad33d0318b0ed2.JPG"
+                        thumbnailUrl="ftpFile\processed\img48fed88c21446eef9fad33d0318b0ed2.JPG"
+                        type="3" />
+
+                    <element
+                        id="2039"
+                        name="胡盂炎.JPG"
+                        elemTempId="selected_elem_265"
+                        life="10"
+                        resolution="936x2520"
+                        src="ftpFile\processed\4a05164fcd1fc3d75708037a2da81e22.JPG"
+                        thumbnailUrl="ftpFile\processed\img4a05164fcd1fc3d75708037a2da81e22.JPG"
+                        type="3" />
+
+                    <element
+                        id="2041"
+                        name="白朴.JPG"
+                        elemTempId="selected_elem_266"
+                        life="10"
+                        resolution="978x2568"
+                        src="ftpFile\processed\6bae0f1e4875861b1ab7f66d27257393.JPG"
+                        thumbnailUrl="ftpFile\processed\img6bae0f1e4875861b1ab7f66d27257393.JPG"
+                        type="3" />
+
+                    <element
+                        id="2034"
+                        name="F045097.jpg"
+                        elemTempId="selected_elem_267"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\cda9fbcdfd6951c07c4ac4bb288fee75.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcda9fbcdfd6951c07c4ac4bb288fee75.jpg"
+                        type="3" />
+
+                    <element
+                        id="2037"
+                        name="F045085.jpg"
+                        elemTempId="selected_elem_268"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\deb389e6fa1afb9526ff979968c89ca0.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdeb389e6fa1afb9526ff979968c89ca0.jpg"
+                        type="3" />
+
+                    <element
+                        id="2035"
+                        name="F045068.jpg"
+                        elemTempId="selected_elem_269"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\b7c87e044624f36097afed8ac55b82fb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb7c87e044624f36097afed8ac55b82fb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2036"
+                        name="F045067.jpg"
+                        elemTempId="selected_elem_270"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\d7c1e7f932e8212c082dbc9bc4cdb83b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd7c1e7f932e8212c082dbc9bc4cdb83b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2033"
+                        name="F045088.jpg"
+                        elemTempId="selected_elem_271"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\500c8e4b7e0f00fbeb98ce87a12ad8f1.jpg"
+                        thumbnailUrl="ftpFile\processed\img500c8e4b7e0f00fbeb98ce87a12ad8f1.jpg"
+                        type="3" />
+
+                    <element
+                        id="2027"
+                        name="F045047.jpg"
+                        elemTempId="selected_elem_272"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\82ee0f243825ab9a0784941bdd46f3ed.jpg"
+                        thumbnailUrl="ftpFile\processed\img82ee0f243825ab9a0784941bdd46f3ed.jpg"
+                        type="3" />
+
+                    <element
+                        id="2017"
+                        name="9-4老年收藏1208.jpg"
+                        elemTempId="selected_elem_273"
+                        life="10"
+                        resolution="1080x1225"
+                        src="ftpFile\processed\0624f52ed19187e6f85b811f38497187.jpg"
+                        thumbnailUrl="ftpFile\processed\img0624f52ed19187e6f85b811f38497187.jpg"
+                        type="3" />
+
+                    <element
+                        id="2018"
+                        name="8-1老年俱乐部1208.jpg"
+                        elemTempId="selected_elem_274"
+                        life="10"
+                        resolution="1080x1225"
+                        src="ftpFile\processed\9d6fefe7c27892520184bb03eb40dde9.jpg"
+                        thumbnailUrl="ftpFile\processed\img9d6fefe7c27892520184bb03eb40dde9.jpg"
+                        type="3" />
+
+                    <element
+                        id="2008"
+                        name="1100-5.jpg"
+                        elemTempId="selected_elem_275"
+                        life="10"
+                        resolution="1100x870"
+                        src="ftpFile\processed\b7a1d6f293af381d9b4a1fab2ae0f783.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb7a1d6f293af381d9b4a1fab2ae0f783.jpg"
+                        type="3" />
+
+                    <element
+                        id="2009"
+                        name="1100-4.jpg"
+                        elemTempId="selected_elem_276"
+                        life="10"
+                        resolution="1100x870"
+                        src="ftpFile\processed\f2dc6e6b238ead16eba0744b0cddd2bf.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf2dc6e6b238ead16eba0744b0cddd2bf.jpg"
+                        type="3" />
+
+                    <element
+                        id="2010"
+                        name="1100-3.jpg"
+                        elemTempId="selected_elem_277"
+                        life="10"
+                        resolution="1100x870"
+                        src="ftpFile\processed\d8c5d1ae0e8315d10fa700705a394206.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd8c5d1ae0e8315d10fa700705a394206.jpg"
+                        type="3" />
+
+                    <element
+                        id="2007"
+                        name="1100-1.jpg"
+                        elemTempId="selected_elem_278"
+                        life="10"
+                        resolution="1100x870"
+                        src="ftpFile\processed\9a6b529d871dd9dc435b6d7d40b903ab.jpg"
+                        thumbnailUrl="ftpFile\processed\img9a6b529d871dd9dc435b6d7d40b903ab.jpg"
+                        type="3" />
+
+                    <element
+                        id="2002"
+                        name="03资讯法规-政策法规.jpg"
+                        elemTempId="selected_elem_279"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\879ec9d034764fc73ac6e04954314514.jpg"
+                        thumbnailUrl="ftpFile\processed\img879ec9d034764fc73ac6e04954314514.jpg"
+                        type="3" />
+
+                    <element
+                        id="2000"
+                        name="10-3远程教学1223.jpg"
+                        elemTempId="selected_elem_280"
+                        life="10"
+                        resolution="1080x1225"
+                        src="ftpFile\processed\5d854e21c3a4b0d04ccfc8dd72df5ca4.jpg"
+                        thumbnailUrl="ftpFile\processed\img5d854e21c3a4b0d04ccfc8dd72df5ca4.jpg"
+                        type="3" />
+                </album>
+            </plug>
+
+            <button
+                id="button4"
+                name="互动按钮"
+                style="0"
+                backcolor=""
+                backimg=""
+                fontcolor=""
+                fontfamily=""
+                fontsize=""
+                height="184"
+                imgstyle=""
+                left="54"
+                sceneid="scene3"
+                top="44"
+                type="1"
+                value="互动按钮"
+                width="188"
+                zIndex="6006" />
+        </scene>
+
+        <scene
+            id="scene3"
+            backcolor=""
+            backimg=""
+            ismain="false"
+            region="null"
+            sceneName="场景3" >
+
+            <plug
+                id="plug5"
+                name="互动相册"
+                elemlife=""
+                height="1280"
+                left="0"
+                top="0"
+                type="1"
+                width="720"
+                zIndex="5008" >
+
+                <album style="1" >
+
+                    <element
+                        id="2228"
+                        name="搜索框文字描述不明确.png"
+                        elemTempId="selected_elem_281"
+                        life="10"
+                        resolution="1552x700"
+                        src="ftpFile\processed\07957bd3d649fa9bfe36171b06bded60.png"
+                        thumbnailUrl="ftpFile\processed\img07957bd3d649fa9bfe36171b06bded60.png"
+                        type="3" />
+
+                    <element
+                        id="2229"
+                        name="15.jpg"
+                        elemTempId="selected_elem_282"
+                        life="10"
+                        resolution="1600x900"
+                        src="ftpFile\processed\b129b4e7d5903a171da2a82c42ff7836.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb129b4e7d5903a171da2a82c42ff7836.jpg"
+                        type="3" />
+
+                    <element
+                        id="2104"
+                        name="Desert.jpg"
+                        elemTempId="selected_elem_283"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\ba45c8f60456a672e003a875e469d0eb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgba45c8f60456a672e003a875e469d0eb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2138"
+                        name="Chrysanthemum.jpg"
+                        elemTempId="selected_elem_284"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        thumbnailUrl="ftpFile\processed\img076e3caed758a1c18c91a0e9cae3368f.jpg"
+                        type="3" />
+
+                    <element
+                        id="1796"
+                        name="养生调理15.Png"
+                        elemTempId="selected_elem_285"
+                        life="10"
+                        resolution="2315x1323"
+                        src="ftpFile\processed\7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        thumbnailUrl="ftpFile\processed\img7226e4ce1bae746a1e655e2bd78aa40a.Png"
+                        type="3" />
+
+                    <element
+                        id="2143"
+                        name="15.jpg"
+                        elemTempId="selected_elem_286"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\022a4a9821eaa37fa6a181c038168bec.jpg"
+                        thumbnailUrl="ftpFile\processed\img022a4a9821eaa37fa6a181c038168bec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2226"
+                        name="双旗科技体验中心 1280x800.png"
+                        elemTempId="selected_elem_287"
+                        life="10"
+                        resolution=""
+                        src="ftpFile\processed\ffe15041b8c16092391d88b922ca50b4.png"
+                        thumbnailUrl="ftpFile\processed\imgffe15041b8c16092391d88b922ca50b4.png"
+                        type="3" />
+
+                    <element
+                        id="2205"
+                        name="艾非尔铁塔.JPG"
+                        elemTempId="selected_elem_288"
+                        life="10"
+                        resolution="1280x3465"
+                        src="ftpFile\processed\e8538d8069fa4cfe3a033d6f00421752.JPG"
+                        thumbnailUrl="ftpFile\processed\imge8538d8069fa4cfe3a033d6f00421752.JPG"
+                        type="3" />
+
+                    <element
+                        id="2206"
+                        name="woman.JPG"
+                        elemTempId="selected_elem_289"
+                        life="10"
+                        resolution="1465x3880"
+                        src="ftpFile\processed\8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        thumbnailUrl="ftpFile\processed\img8639cc6e4c4306886633b2fc4c0ce3b6.JPG"
+                        type="3" />
+
+                    <element
+                        id="2207"
+                        name="sea.JPG"
+                        elemTempId="selected_elem_290"
+                        life="10"
+                        resolution="1900x4960"
+                        src="ftpFile\processed\526fb88cac99f3f6308422975a0a6cae.JPG"
+                        thumbnailUrl="ftpFile\processed\img526fb88cac99f3f6308422975a0a6cae.JPG"
+                        type="3" />
+
+                    <element
+                        id="2187"
+                        name="u=3551317513,3799452752&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_291"
+                        life="10"
+                        resolution="222x220"
+                        src="ftpFile\processed\42b37283f95cb401128fdf91fa55d635.jpg"
+                        thumbnailUrl="ftpFile\processed\img42b37283f95cb401128fdf91fa55d635.jpg"
+                        type="3" />
+
+                    <element
+                        id="2197"
+                        name="U.jpg"
+                        elemTempId="selected_elem_292"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\e0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        thumbnailUrl="ftpFile\processed\imge0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2193"
+                        name="77dab59eef69d1120f437541e8_560.jpg"
+                        elemTempId="selected_elem_293"
+                        life="10"
+                        resolution="560x560"
+                        src="ftpFile\processed\910eebc4ff1db1c786fef21359a601a6.jpg"
+                        thumbnailUrl="ftpFile\processed\img910eebc4ff1db1c786fef21359a601a6.jpg"
+                        type="3" />
+
+                    <element
+                        id="2192"
+                        name="19.gif"
+                        elemTempId="selected_elem_294"
+                        life="10"
+                        resolution="800x644"
+                        src="ftpFile\processed\659323f99bf2e56d8a37b54be16cc028.gif"
+                        thumbnailUrl="ftpFile\processed\img659323f99bf2e56d8a37b54be16cc028.gif"
+                        type="3" />
+
+                    <element
+                        id="2188"
+                        name="18.png"
+                        elemTempId="selected_elem_295"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\47f3fec60db56e7d5323d21d609c3b25.png"
+                        thumbnailUrl="ftpFile\processed\img47f3fec60db56e7d5323d21d609c3b25.png"
+                        type="3" />
+
+                    <element
+                        id="2191"
+                        name="17.png"
+                        elemTempId="selected_elem_296"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\8b84ea20ad7f01bd875e6472b12aee18.png"
+                        thumbnailUrl="ftpFile\processed\img8b84ea20ad7f01bd875e6472b12aee18.png"
+                        type="3" />
+
+                    <element
+                        id="2195"
+                        name="16.png"
+                        elemTempId="selected_elem_297"
+                        life="10"
+                        resolution="288x198"
+                        src="ftpFile\processed\a7fced47cbbe46b3950a804698f048f5.png"
+                        thumbnailUrl="ftpFile\processed\imga7fced47cbbe46b3950a804698f048f5.png"
+                        type="3" />
+
+                    <element
+                        id="2190"
+                        name="14.png"
+                        elemTempId="selected_elem_298"
+                        life="10"
+                        resolution="1288x559"
+                        src="ftpFile\processed\7dc61228f68ab2fa986b9f2facf8477c.png"
+                        thumbnailUrl="ftpFile\processed\img7dc61228f68ab2fa986b9f2facf8477c.png"
+                        type="3" />
+
+                    <element
+                        id="2184"
+                        name="V.jpg"
+                        elemTempId="selected_elem_299"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2182"
+                        name="u=2970845689,4239443281&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_300"
+                        life="10"
+                        resolution="176x220"
+                        src="ftpFile\processed\08e0716377744d7150427e9f1ae2de1c.jpg"
+                        thumbnailUrl="ftpFile\processed\img08e0716377744d7150427e9f1ae2de1c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2186"
+                        name="u=2785000230,360309763&amp;fm=21&amp;gp=0.jpg"
+                        elemTempId="selected_elem_301"
+                        life="10"
+                        resolution="156x220"
+                        src="ftpFile\processed\3abf6c38eec4ecfb340b85ceb320b819.jpg"
+                        thumbnailUrl="ftpFile\processed\img3abf6c38eec4ecfb340b85ceb320b819.jpg"
+                        type="3" />
+
+                    <element
+                        id="2183"
+                        name="u=2088812865,1218106297&amp;fm=23&amp;gp=0.jpg"
+                        elemTempId="selected_elem_302"
+                        life="10"
+                        resolution="338x300"
+                        src="ftpFile\processed\08d5c6f950479946ad3c33c2923ea2d8.jpg"
+                        thumbnailUrl="ftpFile\processed\img08d5c6f950479946ad3c33c2923ea2d8.jpg"
+                        type="3" />
+
+                    <element
+                        id="2185"
+                        name="00634daeda55407491101ee42d7a708b.jpg"
+                        elemTempId="selected_elem_303"
+                        life="10"
+                        resolution="9462x4734"
+                        src="ftpFile\processed\0f0b14d3ad4d712e88c80b095be900d2.jpg"
+                        thumbnailUrl="ftpFile\processed\img0f0b14d3ad4d712e88c80b095be900d2.jpg"
+                        type="3" />
+
+                    <element
+                        id="1156"
+                        name="fly11.jpg"
+                        elemTempId="selected_elem_304"
+                        life="10"
+                        resolution="9071x3402"
+                        src="ftpFile\processed\d2a6468ffa1745ef2145fbc54ebb9124.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd2a6468ffa1745ef2145fbc54ebb9124.jpg"
+                        type="3" />
+
+                    <element
+                        id="2177"
+                        name="T.jpg"
+                        elemTempId="selected_elem_305"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\927a960e31ccb8739fb601b19a316ea9.jpg"
+                        thumbnailUrl="ftpFile\processed\img927a960e31ccb8739fb601b19a316ea9.jpg"
+                        type="3" />
+
+                    <element
+                        id="2168"
+                        name="S.jpg"
+                        elemTempId="selected_elem_306"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\12eab1f7a8ed8eb41bef4c79f8825f8c.jpg"
+                        thumbnailUrl="ftpFile\processed\img12eab1f7a8ed8eb41bef4c79f8825f8c.jpg"
+                        type="3" />
+
+                    <element
+                        id="2175"
+                        name="R.jpg"
+                        elemTempId="selected_elem_307"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\d7d6128f4817e6dc52dde2f213dc7928.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd7d6128f4817e6dc52dde2f213dc7928.jpg"
+                        type="3" />
+
+                    <element
+                        id="2176"
+                        name="Q.jpg"
+                        elemTempId="selected_elem_308"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\fc69a8dc881ffac68d52a3f959586629.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfc69a8dc881ffac68d52a3f959586629.jpg"
+                        type="3" />
+
+                    <element
+                        id="2174"
+                        name="P.jpg"
+                        elemTempId="selected_elem_309"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\c682780074210f3868cc7bcc2601d6ef.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc682780074210f3868cc7bcc2601d6ef.jpg"
+                        type="3" />
+
+                    <element
+                        id="2170"
+                        name="O.jpg"
+                        elemTempId="selected_elem_310"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\2729028abdc0c1a7573781526084caf0.jpg"
+                        thumbnailUrl="ftpFile\processed\img2729028abdc0c1a7573781526084caf0.jpg"
+                        type="3" />
+
+                    <element
+                        id="2173"
+                        name="N.jpg"
+                        elemTempId="selected_elem_311"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\7746e68ebbc41e187a5a52f3bb727d09.jpg"
+                        thumbnailUrl="ftpFile\processed\img7746e68ebbc41e187a5a52f3bb727d09.jpg"
+                        type="3" />
+
+                    <element
+                        id="2172"
+                        name="M.jpg"
+                        elemTempId="selected_elem_312"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\b322bdf24d9d8228ebf400a25cf975da.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb322bdf24d9d8228ebf400a25cf975da.jpg"
+                        type="3" />
+
+                    <element
+                        id="2169"
+                        name="L.jpg"
+                        elemTempId="selected_elem_313"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\1965eb86945bf1015f1b335cb75049da.jpg"
+                        thumbnailUrl="ftpFile\processed\img1965eb86945bf1015f1b335cb75049da.jpg"
+                        type="3" />
+
+                    <element
+                        id="2171"
+                        name="K.jpg"
+                        elemTempId="selected_elem_314"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\73a0ccacb082dddadb7cadcc6755f5ed.jpg"
+                        thumbnailUrl="ftpFile\processed\img73a0ccacb082dddadb7cadcc6755f5ed.jpg"
+                        type="3" />
+
+                    <element
+                        id="2167"
+                        name="J.jpg"
+                        elemTempId="selected_elem_315"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\237ce5ead6b1a55987464ab6db02ee46.jpg"
+                        thumbnailUrl="ftpFile\processed\img237ce5ead6b1a55987464ab6db02ee46.jpg"
+                        type="3" />
+
+                    <element
+                        id="2166"
+                        name="I.jpg"
+                        elemTempId="selected_elem_316"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\c6662e3e4b7bb81a4de434f3d97fe4c6.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc6662e3e4b7bb81a4de434f3d97fe4c6.jpg"
+                        type="3" />
+
+                    <element
+                        id="2165"
+                        name="H.jpg"
+                        elemTempId="selected_elem_317"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\4c7cca1a057592def71f1734e1153b25.jpg"
+                        thumbnailUrl="ftpFile\processed\img4c7cca1a057592def71f1734e1153b25.jpg"
+                        type="3" />
+
+                    <element
+                        id="2164"
+                        name="G.jpg"
+                        elemTempId="selected_elem_318"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\bf853fdb94a39f0f33b240e3fb5e58a3.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbf853fdb94a39f0f33b240e3fb5e58a3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2163"
+                        name="F.jpg"
+                        elemTempId="selected_elem_319"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\f6881655b8d0366b46bf1ca7c8930cf7.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf6881655b8d0366b46bf1ca7c8930cf7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2181"
+                        name="E.jpg"
+                        elemTempId="selected_elem_320"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\67dd33d40794ec74a6b666a52400d9bd.jpg"
+                        thumbnailUrl="ftpFile\processed\img67dd33d40794ec74a6b666a52400d9bd.jpg"
+                        type="3" />
+
+                    <element
+                        id="2180"
+                        name="D.jpg"
+                        elemTempId="selected_elem_321"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\36da23c4a5810f9a4d9546e53817b16d.jpg"
+                        thumbnailUrl="ftpFile\processed\img36da23c4a5810f9a4d9546e53817b16d.jpg"
+                        type="3" />
+
+                    <element
+                        id="2162"
+                        name="C.jpg"
+                        elemTempId="selected_elem_322"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\24a01bb0e096d5495e3529313fc99e6b.jpg"
+                        thumbnailUrl="ftpFile\processed\img24a01bb0e096d5495e3529313fc99e6b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2179"
+                        name="B.jpg"
+                        elemTempId="selected_elem_323"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\5a24cf7759a16a2c5719bb71b36c1212.jpg"
+                        thumbnailUrl="ftpFile\processed\img5a24cf7759a16a2c5719bb71b36c1212.jpg"
+                        type="3" />
+
+                    <element
+                        id="2178"
+                        name="A.jpg"
+                        elemTempId="selected_elem_324"
+                        life="10"
+                        resolution="1366x768"
+                        src="ftpFile\processed\fad951f11f615fb9abb3e1d9d80a3bd2.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfad951f11f615fb9abb3e1d9d80a3bd2.jpg"
+                        type="3" />
+
+                    <element
+                        id="2156"
+                        name="565a7a4acabb8215d2065a77dbd26444.jpg"
+                        elemTempId="selected_elem_325"
+                        life="10"
+                        resolution="4096x2160"
+                        src="ftpFile\processed\565a7a4acabb8215d2065a77dbd26444.jpg"
+                        thumbnailUrl="ftpFile\processed\img565a7a4acabb8215d2065a77dbd26444.jpg"
+                        type="3" />
+
+                    <element
+                        id="2158"
+                        name="c8b743abbf4aa4e9580030aefdf43719.jpg"
+                        elemTempId="selected_elem_326"
+                        life="10"
+                        resolution="4096x2160"
+                        src="ftpFile\processed\c8b743abbf4aa4e9580030aefdf43719.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc8b743abbf4aa4e9580030aefdf43719.jpg"
+                        type="3" />
+
+                    <element
+                        id="658"
+                        name="6430e7695949e4ed60e3b2dfdf1207ae - 副本.jpg"
+                        elemTempId="selected_elem_327"
+                        life="10"
+                        resolution="3840x1080"
+                        src="ftpFile\processed\dc6e5b314588d0727beb7c33d01a3a5b.jpg"
+                        thumbnailUrl="ftpFile\processed\imgdc6e5b314588d0727beb7c33d01a3a5b.jpg"
+                        type="3" />
+
+                    <element
+                        id="2154"
+                        name="酒店7.jpg"
+                        elemTempId="selected_elem_328"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\57a1f24c1d1d8c9d2ef714f5e9416c17.jpg"
+                        thumbnailUrl="ftpFile\processed\img57a1f24c1d1d8c9d2ef714f5e9416c17.jpg"
+                        type="3" />
+
+                    <element
+                        id="2153"
+                        name="0014.jpg"
+                        elemTempId="selected_elem_329"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\c7d4f6e860ba459806b6f705379666f9.jpg"
+                        thumbnailUrl="ftpFile\processed\imgc7d4f6e860ba459806b6f705379666f9.jpg"
+                        type="3" />
+
+                    <element
+                        id="2148"
+                        name="6.jpg"
+                        elemTempId="selected_elem_330"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\841806c9b6d64bdf6213f8ee891baecb.jpg"
+                        thumbnailUrl="ftpFile\processed\img841806c9b6d64bdf6213f8ee891baecb.jpg"
+                        type="3" />
+
+                    <element
+                        id="2149"
+                        name="5.jpg"
+                        elemTempId="selected_elem_331"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\a5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        thumbnailUrl="ftpFile\processed\imga5abc18d105d3d2ef0b3b1a951f387b7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2145"
+                        name="4.jpg"
+                        elemTempId="selected_elem_332"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        thumbnailUrl="ftpFile\processed\img2b59bbd5a38ca26dc24026f979deeee7.jpg"
+                        type="3" />
+
+                    <element
+                        id="2150"
+                        name="3.jpg"
+                        elemTempId="selected_elem_333"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\b4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb4fc929b208ca1043a21a8533cb8dc77.jpg"
+                        type="3" />
+
+                    <element
+                        id="2152"
+                        name="2.jpg"
+                        elemTempId="selected_elem_334"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\f67b793c4ef1e2a71300265fda023841.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf67b793c4ef1e2a71300265fda023841.jpg"
+                        type="3" />
+
+                    <element
+                        id="2146"
+                        name="1.jpg"
+                        elemTempId="selected_elem_335"
+                        life="10"
+                        resolution="1080x1920"
+                        src="ftpFile\processed\463dfde36781894f33f863596685bc70.jpg"
+                        thumbnailUrl="ftpFile\processed\img463dfde36781894f33f863596685bc70.jpg"
+                        type="3" />
+
+                    <element
+                        id="975"
+                        name="9.jpg"
+                        elemTempId="selected_elem_336"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\32a892042674dd9b50b879b62c354da1.jpg"
+                        thumbnailUrl="ftpFile\processed\img32a892042674dd9b50b879b62c354da1.jpg"
+                        type="3" />
+
+                    <element
+                        id="973"
+                        name="8.jpg"
+                        elemTempId="selected_elem_337"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\390d094a051ade86883d2c62cd095d90.jpg"
+                        thumbnailUrl="ftpFile\processed\img390d094a051ade86883d2c62cd095d90.jpg"
+                        type="3" />
+
+                    <element
+                        id="977"
+                        name="7.jpg"
+                        elemTempId="selected_elem_338"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\6081f50d36e6e5b85a302d50d7246659.jpg"
+                        thumbnailUrl="ftpFile\processed\img6081f50d36e6e5b85a302d50d7246659.jpg"
+                        type="3" />
+
+                    <element
+                        id="974"
+                        name="6.jpg"
+                        elemTempId="selected_elem_339"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\142c2cad8117b18f25ca76664881b5de.jpg"
+                        thumbnailUrl="ftpFile\processed\img142c2cad8117b18f25ca76664881b5de.jpg"
+                        type="3" />
+
+                    <element
+                        id="972"
+                        name="5.jpg"
+                        elemTempId="selected_elem_340"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\141dbab2e13fee35831cc6627518bfd4.jpg"
+                        thumbnailUrl="ftpFile\processed\img141dbab2e13fee35831cc6627518bfd4.jpg"
+                        type="3" />
+
+                    <element
+                        id="986"
+                        name="4.jpg"
+                        elemTempId="selected_elem_341"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="985"
+                        name="4 - 副本.jpg"
+                        elemTempId="selected_elem_342"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="983"
+                        name="3.jpg"
+                        elemTempId="selected_elem_343"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        thumbnailUrl="ftpFile\processed\imgffdeb16a491809b356ef5f4c1c8e20b4.jpg"
+                        type="3" />
+
+                    <element
+                        id="984"
+                        name="3 - 副本.jpg"
+                        elemTempId="selected_elem_344"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\fb7a7e4ea72a402b5153d882fe7fc985.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfb7a7e4ea72a402b5153d882fe7fc985.jpg"
+                        type="3" />
+
+                    <element
+                        id="993"
+                        name="2.jpg"
+                        elemTempId="selected_elem_345"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\cc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        type="3" />
+
+                    <element
+                        id="994"
+                        name="2 - 副本.jpg"
+                        elemTempId="selected_elem_346"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\cc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        thumbnailUrl="ftpFile\processed\imgcc780daa373721bcb77a5b82b9c59cfb.jpg"
+                        type="3" />
+
+                    <element
+                        id="978"
+                        name="14.jpg"
+                        elemTempId="selected_elem_347"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\9e2e1b8ac2ca2088b9894ef8864c19ab.jpg"
+                        thumbnailUrl="ftpFile\processed\img9e2e1b8ac2ca2088b9894ef8864c19ab.jpg"
+                        type="3" />
+
+                    <element
+                        id="976"
+                        name="13.jpg"
+                        elemTempId="selected_elem_348"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\5802a17525852a197ce0610bf4162d79.jpg"
+                        thumbnailUrl="ftpFile\processed\img5802a17525852a197ce0610bf4162d79.jpg"
+                        type="3" />
+
+                    <element
+                        id="979"
+                        name="12.jpg"
+                        elemTempId="selected_elem_349"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\b8b1914972a5815f17a2c2d87ec1425f.jpg"
+                        thumbnailUrl="ftpFile\processed\imgb8b1914972a5815f17a2c2d87ec1425f.jpg"
+                        type="3" />
+
+                    <element
+                        id="982"
+                        name="11.jpg"
+                        elemTempId="selected_elem_350"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\ee977cb3109fdbe89c0fdd2972b86292.jpg"
+                        thumbnailUrl="ftpFile\processed\imgee977cb3109fdbe89c0fdd2972b86292.jpg"
+                        type="3" />
+
+                    <element
+                        id="981"
+                        name="10.jpg"
+                        elemTempId="selected_elem_351"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\962b632ecf4c79123f5c2a5fe65bcc0f.jpg"
+                        thumbnailUrl="ftpFile\processed\img962b632ecf4c79123f5c2a5fe65bcc0f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2142"
+                        name="1.jpg"
+                        elemTempId="selected_elem_352"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\e9200adc12403ee9dd8fb08801c59866.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9200adc12403ee9dd8fb08801c59866.jpg"
+                        type="3" />
+
+                    <element
+                        id="980"
+                        name="1 - 副本.jpg"
+                        elemTempId="selected_elem_353"
+                        life="10"
+                        resolution="1920x1200"
+                        src="ftpFile\processed\e9200adc12403ee9dd8fb08801c59866.jpg"
+                        thumbnailUrl="ftpFile\processed\imge9200adc12403ee9dd8fb08801c59866.jpg"
+                        type="3" />
+
+                    <element
+                        id="2140"
+                        name="Tulips.jpg"
+                        elemTempId="selected_elem_354"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\fafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfafa5efeaf3cbe3b23b2748d13e629a1.jpg"
+                        type="3" />
+
+                    <element
+                        id="2141"
+                        name="Penguins.jpg"
+                        elemTempId="selected_elem_355"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        thumbnailUrl="ftpFile\processed\img9d377b10ce778c4938b3c7e2c63a229a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2139"
+                        name="Lighthouse.jpg"
+                        elemTempId="selected_elem_356"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\8969288f4245120e7c3870287cce0ff3.jpg"
+                        thumbnailUrl="ftpFile\processed\img8969288f4245120e7c3870287cce0ff3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2099"
+                        name="Koala.jpg"
+                        elemTempId="selected_elem_357"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\2b04df3ecc1d94afddff082d139c6f15.jpg"
+                        thumbnailUrl="ftpFile\processed\img2b04df3ecc1d94afddff082d139c6f15.jpg"
+                        type="3" />
+
+                    <element
+                        id="2100"
+                        name="Jellyfish.jpg"
+                        elemTempId="selected_elem_358"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\5a44c7ba5bbe4ec867233d67e4806848.jpg"
+                        thumbnailUrl="ftpFile\processed\img5a44c7ba5bbe4ec867233d67e4806848.jpg"
+                        type="3" />
+
+                    <element
+                        id="492"
+                        name="Hydrangeas.jpg"
+                        elemTempId="selected_elem_359"
+                        life="10"
+                        resolution="1024x768"
+                        src="ftpFile\processed\bdf3bf1da3405725be763540d6601144.jpg"
+                        thumbnailUrl="ftpFile\processed\imgbdf3bf1da3405725be763540d6601144.jpg"
+                        type="3" />
+
+                    <element
+                        id="2135"
+                        name="F045069.jpg"
+                        elemTempId="selected_elem_360"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\f46c82ea791402fcbb6cd684b22d940f.jpg"
+                        thumbnailUrl="ftpFile\processed\imgf46c82ea791402fcbb6cd684b22d940f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2136"
+                        name="F045046.jpg"
+                        elemTempId="selected_elem_361"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\fcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        thumbnailUrl="ftpFile\processed\imgfcf87ba27edc6fd784f9b488ca87a00a.jpg"
+                        type="3" />
+
+                    <element
+                        id="2137"
+                        name="F045007.jpg"
+                        elemTempId="selected_elem_362"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\d5fdf951d05487c94c5cca022724b563.jpg"
+                        thumbnailUrl="ftpFile\processed\imgd5fdf951d05487c94c5cca022724b563.jpg"
+                        type="3" />
+
+                    <element
+                        id="2133"
+                        name="F045028.jpg"
+                        elemTempId="selected_elem_363"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7624a792f8227c2006ed490eda4fe81f.jpg"
+                        thumbnailUrl="ftpFile\processed\img7624a792f8227c2006ed490eda4fe81f.jpg"
+                        type="3" />
+
+                    <element
+                        id="2134"
+                        name="F045021.jpg"
+                        elemTempId="selected_elem_364"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\a28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        thumbnailUrl="ftpFile\processed\imga28db2cd8ed0b13408cd94c4ca211077.jpg"
+                        type="3" />
+
+                    <element
+                        id="2132"
+                        name="F045008.jpg"
+                        elemTempId="selected_elem_365"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        thumbnailUrl="ftpFile\processed\img0b18be7e519a99d378b89ad8dc24b119.jpg"
+                        type="3" />
+
+                    <element
+                        id="2130"
+                        name="F045098.jpg"
+                        elemTempId="selected_elem_366"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\7858341cbf9e7863890673074128e8d3.jpg"
+                        thumbnailUrl="ftpFile\processed\img7858341cbf9e7863890673074128e8d3.jpg"
+                        type="3" />
+
+                    <element
+                        id="2131"
+                        name="F045056.jpg"
+                        elemTempId="selected_elem_367"
+                        life="10"
+                        resolution="4288x2848"
+                        src="ftpFile\processed\94b080aeb7042079f39bb2efa98d8289.jpg"
+                        thumbnailUrl="ftpFile\processed\img94b080aeb7042079f39bb2efa98d8289.jpg"
+                        type="3" />
+
+                    <element
+                        id="2127"
+                        name="F045074.jpg"
+                        elemTempId="selected_elem_368"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        thumbnailUrl="ftpFile\processed\img34e47a2c0072959f8a104b499f9ff7fc.jpg"
+                        type="3" />
+
+                    <element
+                        id="2128"
+                        name="F045061.jpg"
+                        elemTempId="selected_elem_369"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\37badd929413aa3c126f86b0a84af0ec.jpg"
+                        thumbnailUrl="ftpFile\processed\img37badd929413aa3c126f86b0a84af0ec.jpg"
+                        type="3" />
+
+                    <element
+                        id="2129"
+                        name="F045057.jpg"
+                        elemTempId="selected_elem_370"
+                        life="10"
+                        resolution="2848x4288"
+                        src="ftpFile\processed\35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        thumbnailUrl="ftpFile\processed\img35e070cc5c0e2701d04f0ae66a5ea95e.jpg"
+                        type="3" />
+                </album>
+            </plug>
+
+            <button
+                id="button6"
+                name="互动按钮"
+                style="0"
+                backcolor=""
+                backimg=""
+                fontcolor=""
+                fontfamily=""
+                fontsize=""
+                height="154"
+                imgstyle=""
+                left="44"
+                sceneid="scene4"
+                top="67"
+                type="1"
+                value="互动按钮"
+                width="176"
+                zIndex="6010" />
+        </scene>
+
+        <scene
+            id="scene4"
+            backcolor=""
+            backimg=""
+            ismain="false"
+            sceneName="场景4" >
+
+            <region
+                id="region1"
+                name="视频"
+                elemlife=""
+                height="410"
+                left="0"
+                top="0"
+                type="4"
+                width="717"
+                zIndex="2012" >
+
+                <element
+                    id="873"
+                    name="[舞出我人生3].Step.Up.3.2010.08.06.480P.预告片.mov"
+                    elemTempId="selected_elem_371"
+                    life="124"
+                    resolution="300x220"
+                    src="ftpFile\processed\0cfde47f5d9aaabd2da45d7622826fd7.mp4"
+                    thumbnailUrl="ftpFile\processed\fail.png"
+                    type="4" />
+            </region>
+
+            <region
+                id="region2"
+                name="图片"
+                elemlife=""
+                height="420"
+                left="3"
+                top="408"
+                type="3"
+                width="717"
+                zIndex="2014" >
+
+                <element
+                    id="2197"
+                    name="U.jpg"
+                    elemTempId="selected_elem_372"
+                    life="10"
+                    resolution="1366x768"
+                    src="ftpFile\processed\e0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                    thumbnailUrl="ftpFile\processed\imge0cebd33e1d98def0dab8be8a9f0ec9d.jpg"
+                    type="3" />
+
+                <element
+                    id="2184"
+                    name="V.jpg"
+                    elemTempId="selected_elem_373"
+                    life="10"
+                    resolution="1366x768"
+                    src="ftpFile\processed\22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                    thumbnailUrl="ftpFile\processed\img22e0cb8184f62eb12570833c2bdc71ec.jpg"
+                    type="3" />
+
+                <element
+                    id="2196"
+                    name="Y.jpg"
+                    elemTempId="selected_elem_374"
+                    life="10"
+                    resolution="1366x768"
+                    src="ftpFile\processed\d463fdf6607da3b13fab5612d3b50dce.jpg"
+                    thumbnailUrl="ftpFile\processed\imgd463fdf6607da3b13fab5612d3b50dce.jpg"
+                    type="3" />
+
+                <element
+                    id="2189"
+                    name="X.jpg"
+                    elemTempId="selected_elem_375"
+                    life="10"
+                    resolution="1366x768"
+                    src="ftpFile\processed\5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                    thumbnailUrl="ftpFile\processed\img5493ef2c38ce9101774ed58e2ce4d0bf.jpg"
+                    type="3" />
+
+                <element
+                    id="2194"
+                    name="W.jpg"
+                    elemTempId="selected_elem_376"
+                    life="10"
+                    resolution="1366x768"
+                    src="ftpFile\processed\93909019e1309425056d0888cb65b443.jpg"
+                    thumbnailUrl="ftpFile\processed\img93909019e1309425056d0888cb65b443.jpg"
+                    type="3" />
+            </region>
+
+            <region
+                id="region3"
+                name="文本"
+                elemlife=""
+                height="451"
+                left="0"
+                top="829"
+                type="1"
+                width="720"
+                zIndex="2016" >
+
+                <element
+                    id="467"
+                    name="好好学习天天向上"
+                    elemTempId="selected_elem_377"
+                    life="10"
+                    resolution="300x300"
+                    src="ftpFile\processed\好好学习天天向上.xml"
+                    thumbnailUrl="ftpFile\processed\text.jpg"
+                    type="1" />
+            </region>
+
+            <button
+                id="button10"
+                name="互动按钮"
+                style="0"
+                backcolor=""
+                backimg=""
+                fontcolor=""
+                fontfamily=""
+                fontsize=""
+                height="152"
+                imgstyle=""
+                left="44"
+                sceneid="scene5"
+                top="56"
+                type="1"
+                value="互动按钮"
+                width="160"
+                zIndex="6028" />
+        </scene>
+
+        <scene
+            id="scene5"
+            backcolor=""
+            backimg=""
+            ismain="false"
+            sceneName="场景5" >
+
+            <region
+                id="region4"
+                name="office"
+                elemlife=""
+                height="639"
+                left="0"
+                top="0"
+                type="7"
+                width="720"
+                zIndex="2018" >
+
+                <element
+                    id="2375"
+                    name="《看见》-- 柴静(精校版).pdf"
+                    elemTempId="selected_elem_379"
+                    life="10"
+                    resolution="1062x1411"
+                    src="ftpFile\processed\473_982731861c52c402607243d19887515b.xps"
+                    thumbnailUrl="ftpFile\processed\img982731861c52c402607243d19887515b.jpg"
+                    type="7" />
+            </region>
+
+            <region
+                id="region5"
+                name="音频"
+                elemlife=""
+                height="639"
+                left="0"
+                top="639"
+                type="2"
+                width="720"
+                zIndex="2020" >
+
+                <element
+                    id="2014"
+                    name="真的爱你.mid"
+                    elemTempId="selected_elem_378"
+                    life="10"
+                    resolution=""
+                    src="ftpFile\processed\560c83ec1b483601451920a1f8031ca1.mid"
+                    thumbnailUrl="ftpFile\processed\audio.png"
+                    type="2" />
+            </region>
+
+            <plug
+                id="plug7"
+                name="天气预报"
+                elemlife=""
+                height="160"
+                left="28"
+                top="737"
+                type="6"
+                width="260"
+                zIndex="5022" >
+
+                <weather
+                    name="样式一"
+                    style="1"
+                    height="160"
+                    path="ftpFile/plugXmlFile/img/weather/weather_style1.png"
+                    width="260" >
+
+                    <item
+                        content="北京"
+                        font="微软雅黑"
+                        fontsize="24"
+                        left="110"
+                        top="20"
+                        type="1"
+                        color="#1fa7d9"/>
+
+                    <item
+                        content="9℃/23℃"
+                        font="微软雅黑"
+                        fontsize="18"
+                        left="110"
+                        top="55"
+                        type="2"
+                        color="#1fa7d9"/>
+
+                    <item
+                        content="晴"
+                        font="微软雅黑"
+                        fontsize="24"
+                        left="110"
+                        top="80"
+                        type="3"
+                        color="#dd811d"/>
+
+                    <item
+                        content="无持续风向微风"
+                        font="微软雅黑"
+                        fontsize="18"
+                        left="110"
+                        top="110"
+                        type="4"
+                        color="#dd811d"/>
+
+                    <pic
+                        height="100"
+                        left="10"
+                        src="a_0.gif"
+                        top="30"
+                        width="100" />
+                </weather>
+            </plug>
+
+            <plug
+                id="plug8"
+                name="天气预报"
+                elemlife=""
+                height="160"
+                left="406"
+                top="745"
+                type="6"
+                width="260"
+                zIndex="5024" >
+
+                <weather
+                    name="样式一"
+                    style="1"
+                    height="160"
+                    path="ftpFile/plugXmlFile/img/weather/weather_style1.png"
+                    width="260" >
+
+                    <item
+                        content="北京"
+                        font="微软雅黑"
+                        fontsize="24"
+                        left="110"
+                        top="20"
+                        type="1"
+                        color="#1fa7d9"/>
+
+                    <item
+                        content="9℃/23℃"
+                        font="微软雅黑"
+                        fontsize="18"
+                        left="110"
+                        top="55"
+                        type="2"
+                        color="#1fa7d9"/>
+
+                    <item
+                        content="晴"
+                        font="微软雅黑"
+                        fontsize="24"
+                        left="110"
+                        top="80"
+                        type="3"
+                        color="#dd811d"/>
+
+                    <item
+                        content="无持续风向微风"
+                        font="微软雅黑"
+                        fontsize="18"
+                        left="110"
+                        top="110"
+                        type="4"
+                        color="#dd811d"/>
+
+                    <pic
+                        height="100"
+                        left="10"
+                        src="a_0.gif"
+                        top="30"
+                        width="100" />
+                </weather>
+            </plug>
+
+            <button
+                id="button9"
+                name="互动按钮"
+                style="0"
+                backcolor=""
+                backimg=""
+                fontcolor=""
+                fontfamily=""
+                fontsize=""
+                height="152"
+                imgstyle=""
+                left="28"
+                sceneid="scene1"
+                top="741"
+                type="1"
+                value="互动按钮"
+                width="260"
+                zIndex="6026" />
+        </scene>
+    </program>
+
+</twinflag>

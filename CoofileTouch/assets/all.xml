@@ -1,0 +1,131 @@
+﻿com.twinflag.coofiletouch.entity<?xml version="1.0" encoding="utf-8"?>
+
+{
+	"program":
+	{
+		"id":"任务id",
+		"name":"任务名字",
+		[
+			"scene":
+			{
+				"id":"场景id"
+				"name":"场景名字"
+				"ismain":"是否是主场景"
+				[
+					"region":
+					{
+						"id":"区域id"
+						"name":"区域名字"
+						[
+							"element":
+							{
+								"id":"元素id"
+								"name":"元素名字"
+							}
+						]
+					}
+				]
+					"button":
+					{
+						"id":"按钮id"
+						"name":"按钮名字"
+					}
+				[
+					"plug":
+					{
+						"id":"插件id"
+						"name":"插件名字"
+						"album":
+						{
+							"style":"1"
+							[
+								element:
+								{
+									"id":1
+									"name":"tupian"
+								}
+							]
+						}
+						"weather":
+						{
+							"style":"1"
+							[
+								"item":
+								{
+							
+								}
+							]
+							"pic":
+							{
+								"src":"mai_0.png"
+							}
+						}
+						"clock":
+						{
+						
+						}
+					}
+				]
+			}
+		]
+	}
+}
+
+<twinflag>
+  <!-- 任务标签 -->
+  <program id="49" name="多区域" looptype="2" loopdesc="Wednesday,Thursday,Friday" loopstarttime="00:00:00" loopstoptime="23:59:59" 
+      startdate="2014-12-10 00:00:00" stopdate="2014-12-10 23:59:59" updatetime="2014-12-11 10:55:09" height="1080" width="1920">
+    
+      <!-- 场景标签 -->
+      <scene id="scene1" sceneName="场景1" backcolor="" backimg="ftpFile\processed\a506370913d1e12ba937f334653bd0f9.jpg" ismain="true">
+          
+		<!-- 区域标签 -->
+		<region id="region1" name="文本" left="182" top="99" width="1586" height="884" type="1">
+			<!-- 元素标签 8种-->
+			<!--1 文本元素标签 -->
+			<element id="352" life="10" name="长文本" src="ftpFile\processed\100.xml" type="1"/>
+	        <!--3 图片元素标签 -->
+	        <element id="343" life="10" name="2.jpg" src="ftpFile\processed\6ecfaaa47c9bc9bac5fe268debc86755.jpg" type="3"/>
+	        <!--7 office&pdf文档标签 -->
+	        <element id="353" life="10" name="服务器安装手册(企业版).docx" src="ftpFile\processed\5_98ecddf7a32d288df6e51df0ca4f36da.xps" type="7"/>
+		</region>
+		
+		<!-- 按钮标签  syle 1:透明；2:背景颜色；3：背景图片-->
+		<button id="button4" name="互动按钮" left="1440" top="-4" width="479" height="946" sceneid="scene4" type="1" style="" backimg="" backcolor="" value="" fontsize="" fontfamily="" fontcolor=""/>
+	
+		<!-- 插件标签 -->
+		<plug id="plug15" name="互动相册" left="162" top="95" width="1627" height="908" type="1">
+			<!-- 互动图片插件标签  -->
+			<album style="1">
+			    <!-- 图片元素 -->
+				<element id="105" name="2e5003af67f4e98at.jpg" life="10" src="ftpFile\processed\3b2ade69edec8805aac28da370b14bd4.jpg" type="3"/>
+				<!-- office&pdf元素 -->
+			</album>
+			<!-- 天气插件标签  -->
+			<weather style="1">
+				 <!--修改后： type 1:cityname; 2:temp; 3:sky; 4:wind -->
+				<item color="#FF0000" font="楷体" fontsize="15" left="120" top="55" type="1" content="海淀"/>
+				<item color="#FF0000" font="楷体" fontsize="15" left="120" top="25" type="2" content="15℃～10℃"/>
+				<item color="#FF0000" font="宋体" fontsize="15" left="205" top="25" type="3" content="霾"/>
+				<item color="#FF0000" font="幼圆" fontsize="15" left="205" top="55" type="4" content="北风2-3级"/>
+				<pic height="100" left="10" src="mai_0.png" top="10" width="100"/>
+			</weather>
+			<!-- 时钟插件标签  -->
+			<timepiece style="1">
+				<clock top="70" left="15" width="300" height="50" font="楷体" bgcolor="" size="25" fgcolor="#4400CC" format="yyyy-MM-dd HH:mm:ss" /> 
+			</timepiece>
+			<!-- 互动视频插件标签 -->
+			<touchvideo style="1">
+				<element elemTempId="selected_elem_24" id="264" life="136" name="纳尼亚传奇.flv" resolution="480x320" src="ftpFile\processed\8f2810d80127413878f1f7adcce27b0f.flv" thumbnailUrl="ftpFile\processed\img8f2810d80127413878f1f7adcce27b0f.gif" type="4"/>
+			</touchvideo>
+
+		</plug>
+	
+	</scene>
+		
+  </program>
+</twinflag>
+
+{"weatherinfo":
+[{"cityname":"北京","wid":4,"showdate":"2014-12-23","temp":"北风3-4","wind":"8~-1℃","sky":"霾","pic":"mai_0.png"}]}
+
